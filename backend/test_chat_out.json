@@ -1,0 +1,205 @@
+﻿{
+    "reply":  "Found 97 matching product(s).",
+    "products":  [
+                     {
+                         "id":  1,
+                         "sku":  "SKU-00001",
+                         "name":  "Kairo Automotive TXJ 001",
+                         "brand":  "Kairo",
+                         "category":  "Automotive",
+                         "price":  97.62,
+                         "stock":  58,
+                         "description":  "Kairo Automotive model TXJ. High quality, reliable, and tested. Suitable for automotive use."
+                     },
+                     {
+                         "id":  7,
+                         "sku":  "SKU-00007",
+                         "name":  "Kairo Clothing UA7 007",
+                         "brand":  "Kairo",
+                         "category":  "Clothing",
+                         "price":  454.17,
+                         "stock":  408,
+                         "description":  "Kairo Clothing model UA7. High quality, reliable, and tested. Suitable for clothing use."
+                     },
+                     {
+                         "id":  16,
+                         "sku":  "SKU-00016",
+                         "name":  "Velox Automotive UKC 016",
+                         "brand":  "Velox",
+                         "category":  "Automotive",
+                         "price":  661.12,
+                         "stock":  410,
+                         "description":  "Velox Automotive model UKC. High quality, reliable, and tested. Suitable for automotive use."
+                     },
+                     {
+                         "id":  19,
+                         "sku":  "SKU-00019",
+                         "name":  "Kairo Electronic RLO 019",
+                         "brand":  "Kairo",
+                         "category":  "Electronics",
+                         "price":  797.92,
+                         "stock":  24,
+                         "description":  "Kairo Electronic model RLO. High quality, reliable, and tested. Suitable for electronics use."
+                     },
+                     {
+                         "id":  25,
+                         "sku":  "SKU-00025",
+                         "name":  "Kairo Kitchen PFA 025",
+                         "brand":  "Kairo",
+                         "category":  "Kitchen",
+                         "price":  394.45,
+                         "stock":  392,
+                         "description":  "Kairo Kitchen model PFA. High quality, reliable, and tested. Suitable for kitchen use."
+                     },
+                     {
+                         "id":  34,
+                         "sku":  "SKU-00034",
+                         "name":  "Kairo Toy P5V 034",
+                         "brand":  "Kairo",
+                         "category":  "Toys",
+                         "price":  11.27,
+                         "stock":  397,
+                         "description":  "Kairo Toy model P5V. High quality, reliable, and tested. Suitable for toys use."
+                     },
+                     {
+                         "id":  37,
+                         "sku":  "SKU-00037",
+                         "name":  "Kairo Toy R29 037",
+                         "brand":  "Kairo",
+                         "category":  "Toys",
+                         "price":  570.9,
+                         "stock":  137,
+                         "description":  "Kairo Toy model R29. High quality, reliable, and tested. Suitable for toys use."
+                     },
+                     {
+                         "id":  47,
+                         "sku":  "SKU-00047",
+                         "name":  "Kairo Kitchen NYP 047",
+                         "brand":  "Kairo",
+                         "category":  "Kitchen",
+                         "price":  640.77,
+                         "stock":  176,
+                         "description":  "Kairo Kitchen model NYP. High quality, reliable, and tested. Suitable for kitchen use."
+                     },
+                     {
+                         "id":  57,
+                         "sku":  "SKU-00057",
+                         "name":  "Velox Automotive WHK 057",
+                         "brand":  "Velox",
+                         "category":  "Automotive",
+                         "price":  43.22,
+                         "stock":  288,
+                         "description":  "Velox Automotive model WHK. High quality, reliable, and tested. Suitable for automotive use."
+                     },
+                     {
+                         "id":  69,
+                         "sku":  "SKU-00069",
+                         "name":  "Astra Automotive R96 069",
+                         "brand":  "Astra",
+                         "category":  "Automotive",
+                         "price":  70.02,
+                         "stock":  171,
+                         "description":  "Astra Automotive model R96. High quality, reliable, and tested. Suitable for automotive use."
+                     },
+                     {
+                         "id":  72,
+                         "sku":  "SKU-00072",
+                         "name":  "Kairo Electronic AG1 072",
+                         "brand":  "Kairo",
+                         "category":  "Electronics",
+                         "price":  160.09,
+                         "stock":  404,
+                         "description":  "Kairo Electronic model AG1. High quality, reliable, and tested. Suitable for electronics use."
+                     },
+                     {
+                         "id":  76,
+                         "sku":  "SKU-00076",
+                         "name":  "Velox Automotive 650 076",
+                         "brand":  "Velox",
+                         "category":  "Automotive",
+                         "price":  705.48,
+                         "stock":  209,
+                         "description":  "Velox Automotive model 650. High quality, reliable, and tested. Suitable for automotive use."
+                     },
+                     {
+                         "id":  79,
+                         "sku":  "SKU-00079",
+                         "name":  "Echo Automotive 8PD 079",
+                         "brand":  "Echo",
+                         "category":  "Automotive",
+                         "price":  255.71,
+                         "stock":  471,
+                         "description":  "Echo Automotive model 8PD. High quality, reliable, and tested. Suitable for automotive use."
+                     },
+                     {
+                         "id":  82,
+                         "sku":  "SKU-00082",
+                         "name":  "Kairo Beauty 6VY 082",
+                         "brand":  "Kairo",
+                         "category":  "Beauty",
+                         "price":  331.39,
+                         "stock":  45,
+                         "description":  "Kairo Beauty model 6VY. High quality, reliable, and tested. Suitable for beauty use."
+                     },
+                     {
+                         "id":  83,
+                         "sku":  "SKU-00083",
+                         "name":  "Kairo Beauty 865 083",
+                         "brand":  "Kairo",
+                         "category":  "Beauty",
+                         "price":  392.17,
+                         "stock":  292,
+                         "description":  "Kairo Beauty model 865. High quality, reliable, and tested. Suitable for beauty use."
+                     },
+                     {
+                         "id":  90,
+                         "sku":  "SKU-00090",
+                         "name":  "Astra Automotive J7C 090",
+                         "brand":  "Astra",
+                         "category":  "Automotive",
+                         "price":  544.95,
+                         "stock":  245,
+                         "description":  "Astra Automotive model J7C. High quality, reliable, and tested. Suitable for automotive use."
+                     },
+                     {
+                         "id":  95,
+                         "sku":  "SKU-00095",
+                         "name":  "Kairo Book 3JQ 095",
+                         "brand":  "Kairo",
+                         "category":  "Books",
+                         "price":  800.1,
+                         "stock":  78,
+                         "description":  "Kairo Book model 3JQ. High quality, reliable, and tested. Suitable for books use."
+                     },
+                     {
+                         "id":  99,
+                         "sku":  "SKU-00099",
+                         "name":  "Kairo Clothing VMF 099",
+                         "brand":  "Kairo",
+                         "category":  "Clothing",
+                         "price":  62.87,
+                         "stock":  459,
+                         "description":  "Kairo Clothing model VMF. High quality, reliable, and tested. Suitable for clothing use."
+                     },
+                     {
+                         "id":  100,
+                         "sku":  "SKU-00100",
+                         "name":  "Kairo Automotive UP0 100",
+                         "brand":  "Kairo",
+                         "category":  "Automotive",
+                         "price":  15.4,
+                         "stock":  256,
+                         "description":  "Kairo Automotive model UP0. High quality, reliable, and tested. Suitable for automotive use."
+                     },
+                     {
+                         "id":  111,
+                         "sku":  "SKU-00111",
+                         "name":  "Kairo Home 2TM 111",
+                         "brand":  "Kairo",
+                         "category":  "Home",
+                         "price":  261.85,
+                         "stock":  76,
+                         "description":  "Kairo Home model 2TM. High quality, reliable, and tested. Suitable for home use."
+                     }
+                 ]
+}

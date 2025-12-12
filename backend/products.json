@@ -1,0 +1,5002 @@
+[
+  {
+    "id": 1,
+    "sku": "SKU-00001",
+    "name": "Kairo Automotive TXJ 001",
+    "brand": "Kairo",
+    "category": "Automotive",
+    "price": 97.62,
+    "stock": 58,
+    "description": "Kairo Automotive model TXJ. High quality, reliable, and tested. Suitable for automotive use."
+  },
+  {
+    "id": 2,
+    "sku": "SKU-00002",
+    "name": "Astra Garden OGC 002",
+    "brand": "Astra",
+    "category": "Garden",
+    "price": 159.25,
+    "stock": 271,
+    "description": "Astra Garden model OGC. High quality, reliable, and tested. Suitable for garden use."
+  },
+  {
+    "id": 3,
+    "sku": "SKU-00003",
+    "name": "Velox Home R4V 003",
+    "brand": "Velox",
+    "category": "Home",
+    "price": 125.89,
+    "stock": 219,
+    "description": "Velox Home model R4V. High quality, reliable, and tested. Suitable for home use."
+  },
+  {
+    "id": 4,
+    "sku": "SKU-00004",
+    "name": "Pioneer Toy M4X 004",
+    "brand": "Pioneer",
+    "category": "Toys",
+    "price": 598.94,
+    "stock": 270,
+    "description": "Pioneer Toy model M4X. High quality, reliable, and tested. Suitable for toys use."
+  },
+  {
+    "id": 5,
+    "sku": "SKU-00005",
+    "name": "Echo Sport 17C 005",
+    "brand": "Echo",
+    "category": "Sports",
+    "price": 12.91,
+    "stock": 125,
+    "description": "Echo Sport model 17C. High quality, reliable, and tested. Suitable for sports use."
+  },
+  {
+    "id": 6,
+    "sku": "SKU-00006",
+    "name": "Orbit Garden V61 006",
+    "brand": "Orbit",
+    "category": "Garden",
+    "price": 100.96,
+    "stock": 35,
+    "description": "Orbit Garden model V61. High quality, reliable, and tested. Suitable for garden use."
+  },
+  {
+    "id": 7,
+    "sku": "SKU-00007",
+    "name": "Kairo Clothing UA7 007",
+    "brand": "Kairo",
+    "category": "Clothing",
+    "price": 454.17,
+    "stock": 408,
+    "description": "Kairo Clothing model UA7. High quality, reliable, and tested. Suitable for clothing use."
+  },
+  {
+    "id": 8,
+    "sku": "SKU-00008",
+    "name": "Lumen Kitchen 15F 008",
+    "brand": "Lumen",
+    "category": "Kitchen",
+    "price": 190.25,
+    "stock": 318,
+    "description": "Lumen Kitchen model 15F. High quality, reliable, and tested. Suitable for kitchen use."
+  },
+  {
+    "id": 9,
+    "sku": "SKU-00009",
+    "name": "Cresta Garden IFG 009",
+    "brand": "Cresta",
+    "category": "Garden",
+    "price": 642.37,
+    "stock": 367,
+    "description": "Cresta Garden model IFG. High quality, reliable, and tested. Suitable for garden use."
+  },
+  {
+    "id": 10,
+    "sku": "SKU-00010",
+    "name": "Pioneer Toy LS0 010",
+    "brand": "Pioneer",
+    "category": "Toys",
+    "price": 692.6,
+    "stock": 259,
+    "description": "Pioneer Toy model LS0. High quality, reliable, and tested. Suitable for toys use."
+  },
+  {
+    "id": 11,
+    "sku": "SKU-00011",
+    "name": "Zenith Clothing GDB 011",
+    "brand": "Zenith",
+    "category": "Clothing",
+    "price": 469.99,
+    "stock": 69,
+    "description": "Zenith Clothing model GDB. High quality, reliable, and tested. Suitable for clothing use."
+  },
+  {
+    "id": 12,
+    "sku": "SKU-00012",
+    "name": "Nova Toy JN3 012",
+    "brand": "Nova",
+    "category": "Toys",
+    "price": 545.98,
+    "stock": 281,
+    "description": "Nova Toy model JN3. High quality, reliable, and tested. Suitable for toys use."
+  },
+  {
+    "id": 13,
+    "sku": "SKU-00013",
+    "name": "Velox Home BMT 013",
+    "brand": "Velox",
+    "category": "Home",
+    "price": 164.67,
+    "stock": 166,
+    "description": "Velox Home model BMT. High quality, reliable, and tested. Suitable for home use."
+  },
+  {
+    "id": 14,
+    "sku": "SKU-00014",
+    "name": "Pioneer Sport IFS 014",
+    "brand": "Pioneer",
+    "category": "Sports",
+    "price": 835.96,
+    "stock": 74,
+    "description": "Pioneer Sport model IFS. High quality, reliable, and tested. Suitable for sports use."
+  },
+  {
+    "id": 15,
+    "sku": "SKU-00015",
+    "name": "Nova Garden F0G 015",
+    "brand": "Nova",
+    "category": "Garden",
+    "price": 247.32,
+    "stock": 80,
+    "description": "Nova Garden model F0G. High quality, reliable, and tested. Suitable for garden use."
+  },
+  {
+    "id": 16,
+    "sku": "SKU-00016",
+    "name": "Velox Automotive UKC 016",
+    "brand": "Velox",
+    "category": "Automotive",
+    "price": 661.12,
+    "stock": 410,
+    "description": "Velox Automotive model UKC. High quality, reliable, and tested. Suitable for automotive use."
+  },
+  {
+    "id": 17,
+    "sku": "SKU-00017",
+    "name": "Astra Electronic IKS 017",
+    "brand": "Astra",
+    "category": "Electronics",
+    "price": 425.4,
+    "stock": 46,
+    "description": "Astra Electronic model IKS. High quality, reliable, and tested. Suitable for electronics use."
+  },
+  {
+    "id": 18,
+    "sku": "SKU-00018",
+    "name": "Zenith Sport YWV 018",
+    "brand": "Zenith",
+    "category": "Sports",
+    "price": 864.02,
+    "stock": 193,
+    "description": "Zenith Sport model YWV. High quality, reliable, and tested. Suitable for sports use."
+  },
+  {
+    "id": 19,
+    "sku": "SKU-00019",
+    "name": "Kairo Electronic RLO 019",
+    "brand": "Kairo",
+    "category": "Electronics",
+    "price": 797.92,
+    "stock": 24,
+    "description": "Kairo Electronic model RLO. High quality, reliable, and tested. Suitable for electronics use."
+  },
+  {
+    "id": 20,
+    "sku": "SKU-00020",
+    "name": "Echo Kitchen 7DY 020",
+    "brand": "Echo",
+    "category": "Kitchen",
+    "price": 679.5,
+    "stock": 378,
+    "description": "Echo Kitchen model 7DY. High quality, reliable, and tested. Suitable for kitchen use."
+  },
+  {
+    "id": 21,
+    "sku": "SKU-00021",
+    "name": "Pioneer Beauty M9G 021",
+    "brand": "Pioneer",
+    "category": "Beauty",
+    "price": 408.55,
+    "stock": 66,
+    "description": "Pioneer Beauty model M9G. High quality, reliable, and tested. Suitable for beauty use."
+  },
+  {
+    "id": 22,
+    "sku": "SKU-00022",
+    "name": "Orbit Electronic 9VZ 022",
+    "brand": "Orbit",
+    "category": "Electronics",
+    "price": 615.24,
+    "stock": 260,
+    "description": "Orbit Electronic model 9VZ. High quality, reliable, and tested. Suitable for electronics use."
+  },
+  {
+    "id": 23,
+    "sku": "SKU-00023",
+    "name": "Orbit Sport W3M 023",
+    "brand": "Orbit",
+    "category": "Sports",
+    "price": 995.66,
+    "stock": 310,
+    "description": "Orbit Sport model W3M. High quality, reliable, and tested. Suitable for sports use."
+  },
+  {
+    "id": 24,
+    "sku": "SKU-00024",
+    "name": "Astra Electronic KB7 024",
+    "brand": "Astra",
+    "category": "Electronics",
+    "price": 378.93,
+    "stock": 16,
+    "description": "Astra Electronic model KB7. High quality, reliable, and tested. Suitable for electronics use."
+  },
+  {
+    "id": 25,
+    "sku": "SKU-00025",
+    "name": "Kairo Kitchen PFA 025",
+    "brand": "Kairo",
+    "category": "Kitchen",
+    "price": 394.45,
+    "stock": 392,
+    "description": "Kairo Kitchen model PFA. High quality, reliable, and tested. Suitable for kitchen use."
+  },
+  {
+    "id": 26,
+    "sku": "SKU-00026",
+    "name": "Lumen Toy 0QA 026",
+    "brand": "Lumen",
+    "category": "Toys",
+    "price": 54.67,
+    "stock": 174,
+    "description": "Lumen Toy model 0QA. High quality, reliable, and tested. Suitable for toys use."
+  },
+  {
+    "id": 27,
+    "sku": "SKU-00027",
+    "name": "Cresta Clothing 2Z8 027",
+    "brand": "Cresta",
+    "category": "Clothing",
+    "price": 363.22,
+    "stock": 476,
+    "description": "Cresta Clothing model 2Z8. High quality, reliable, and tested. Suitable for clothing use."
+  },
+  {
+    "id": 28,
+    "sku": "SKU-00028",
+    "name": "Velox Sport IA7 028",
+    "brand": "Velox",
+    "category": "Sports",
+    "price": 534.81,
+    "stock": 76,
+    "description": "Velox Sport model IA7. High quality, reliable, and tested. Suitable for sports use."
+  },
+  {
+    "id": 29,
+    "sku": "SKU-00029",
+    "name": "Echo Clothing BXU 029",
+    "brand": "Echo",
+    "category": "Clothing",
+    "price": 466.89,
+    "stock": 354,
+    "description": "Echo Clothing model BXU. High quality, reliable, and tested. Suitable for clothing use."
+  },
+  {
+    "id": 30,
+    "sku": "SKU-00030",
+    "name": "Cresta Garden 1N8 030",
+    "brand": "Cresta",
+    "category": "Garden",
+    "price": 137.01,
+    "stock": 207,
+    "description": "Cresta Garden model 1N8. High quality, reliable, and tested. Suitable for garden use."
+  },
+  {
+    "id": 31,
+    "sku": "SKU-00031",
+    "name": "Zenith Electronic TIY 031",
+    "brand": "Zenith",
+    "category": "Electronics",
+    "price": 786.17,
+    "stock": 298,
+    "description": "Zenith Electronic model TIY. High quality, reliable, and tested. Suitable for electronics use."
+  },
+  {
+    "id": 32,
+    "sku": "SKU-00032",
+    "name": "Nova Toy R1Q 032",
+    "brand": "Nova",
+    "category": "Toys",
+    "price": 328.62,
+    "stock": 51,
+    "description": "Nova Toy model R1Q. High quality, reliable, and tested. Suitable for toys use."
+  },
+  {
+    "id": 33,
+    "sku": "SKU-00033",
+    "name": "Echo Beauty QQV 033",
+    "brand": "Echo",
+    "category": "Beauty",
+    "price": 596.28,
+    "stock": 105,
+    "description": "Echo Beauty model QQV. High quality, reliable, and tested. Suitable for beauty use."
+  },
+  {
+    "id": 34,
+    "sku": "SKU-00034",
+    "name": "Kairo Toy P5V 034",
+    "brand": "Kairo",
+    "category": "Toys",
+    "price": 11.27,
+    "stock": 397,
+    "description": "Kairo Toy model P5V. High quality, reliable, and tested. Suitable for toys use."
+  },
+  {
+    "id": 35,
+    "sku": "SKU-00035",
+    "name": "Velox Kitchen U32 035",
+    "brand": "Velox",
+    "category": "Kitchen",
+    "price": 423.43,
+    "stock": 497,
+    "description": "Velox Kitchen model U32. High quality, reliable, and tested. Suitable for kitchen use."
+  },
+  {
+    "id": 36,
+    "sku": "SKU-00036",
+    "name": "Zenith Book BE3 036",
+    "brand": "Zenith",
+    "category": "Books",
+    "price": 535.04,
+    "stock": 124,
+    "description": "Zenith Book model BE3. High quality, reliable, and tested. Suitable for books use."
+  },
+  {
+    "id": 37,
+    "sku": "SKU-00037",
+    "name": "Kairo Toy R29 037",
+    "brand": "Kairo",
+    "category": "Toys",
+    "price": 570.9,
+    "stock": 137,
+    "description": "Kairo Toy model R29. High quality, reliable, and tested. Suitable for toys use."
+  },
+  {
+    "id": 38,
+    "sku": "SKU-00038",
+    "name": "Orbit Kitchen TRW 038",
+    "brand": "Orbit",
+    "category": "Kitchen",
+    "price": 608.68,
+    "stock": 336,
+    "description": "Orbit Kitchen model TRW. High quality, reliable, and tested. Suitable for kitchen use."
+  },
+  {
+    "id": 39,
+    "sku": "SKU-00039",
+    "name": "Cresta Book 1L6 039",
+    "brand": "Cresta",
+    "category": "Books",
+    "price": 333.71,
+    "stock": 397,
+    "description": "Cresta Book model 1L6. High quality, reliable, and tested. Suitable for books use."
+  },
+  {
+    "id": 40,
+    "sku": "SKU-00040",
+    "name": "Astra Beauty BU3 040",
+    "brand": "Astra",
+    "category": "Beauty",
+    "price": 979.8,
+    "stock": 163,
+    "description": "Astra Beauty model BU3. High quality, reliable, and tested. Suitable for beauty use."
+  },
+  {
+    "id": 41,
+    "sku": "SKU-00041",
+    "name": "Pioneer Electronic ZW7 041",
+    "brand": "Pioneer",
+    "category": "Electronics",
+    "price": 785.13,
+    "stock": 26,
+    "description": "Pioneer Electronic model ZW7. High quality, reliable, and tested. Suitable for electronics use."
+  },
+  {
+    "id": 42,
+    "sku": "SKU-00042",
+    "name": "Astra Toy NUE 042",
+    "brand": "Astra",
+    "category": "Toys",
+    "price": 530.21,
+    "stock": 403,
+    "description": "Astra Toy model NUE. High quality, reliable, and tested. Suitable for toys use."
+  },
+  {
+    "id": 43,
+    "sku": "SKU-00043",
+    "name": "Orbit Kitchen FUT 043",
+    "brand": "Orbit",
+    "category": "Kitchen",
+    "price": 143.77,
+    "stock": 138,
+    "description": "Orbit Kitchen model FUT. High quality, reliable, and tested. Suitable for kitchen use."
+  },
+  {
+    "id": 44,
+    "sku": "SKU-00044",
+    "name": "Nova Home 3A3 044",
+    "brand": "Nova",
+    "category": "Home",
+    "price": 425.81,
+    "stock": 6,
+    "description": "Nova Home model 3A3. High quality, reliable, and tested. Suitable for home use."
+  },
+  {
+    "id": 45,
+    "sku": "SKU-00045",
+    "name": "Pioneer Home J4Q 045",
+    "brand": "Pioneer",
+    "category": "Home",
+    "price": 264.47,
+    "stock": 326,
+    "description": "Pioneer Home model J4Q. High quality, reliable, and tested. Suitable for home use."
+  },
+  {
+    "id": 46,
+    "sku": "SKU-00046",
+    "name": "Astra Sport TRT 046",
+    "brand": "Astra",
+    "category": "Sports",
+    "price": 131.63,
+    "stock": 227,
+    "description": "Astra Sport model TRT. High quality, reliable, and tested. Suitable for sports use."
+  },
+  {
+    "id": 47,
+    "sku": "SKU-00047",
+    "name": "Kairo Kitchen NYP 047",
+    "brand": "Kairo",
+    "category": "Kitchen",
+    "price": 640.77,
+    "stock": 176,
+    "description": "Kairo Kitchen model NYP. High quality, reliable, and tested. Suitable for kitchen use."
+  },
+  {
+    "id": 48,
+    "sku": "SKU-00048",
+    "name": "Nova Kitchen 501 048",
+    "brand": "Nova",
+    "category": "Kitchen",
+    "price": 321.73,
+    "stock": 124,
+    "description": "Nova Kitchen model 501. High quality, reliable, and tested. Suitable for kitchen use."
+  },
+  {
+    "id": 49,
+    "sku": "SKU-00049",
+    "name": "Echo Home 33O 049",
+    "brand": "Echo",
+    "category": "Home",
+    "price": 535.46,
+    "stock": 219,
+    "description": "Echo Home model 33O. High quality, reliable, and tested. Suitable for home use."
+  },
+  {
+    "id": 50,
+    "sku": "SKU-00050",
+    "name": "Zenith Sport 2S7 050",
+    "brand": "Zenith",
+    "category": "Sports",
+    "price": 135.8,
+    "stock": 12,
+    "description": "Zenith Sport model 2S7. High quality, reliable, and tested. Suitable for sports use."
+  },
+  {
+    "id": 51,
+    "sku": "SKU-00051",
+    "name": "Astra Electronic XC8 051",
+    "brand": "Astra",
+    "category": "Electronics",
+    "price": 826.33,
+    "stock": 105,
+    "description": "Astra Electronic model XC8. High quality, reliable, and tested. Suitable for electronics use."
+  },
+  {
+    "id": 52,
+    "sku": "SKU-00052",
+    "name": "Astra Sport Q6N 052",
+    "brand": "Astra",
+    "category": "Sports",
+    "price": 210.33,
+    "stock": 340,
+    "description": "Astra Sport model Q6N. High quality, reliable, and tested. Suitable for sports use."
+  },
+  {
+    "id": 53,
+    "sku": "SKU-00053",
+    "name": "Nova Home XZ1 053",
+    "brand": "Nova",
+    "category": "Home",
+    "price": 972.08,
+    "stock": 411,
+    "description": "Nova Home model XZ1. High quality, reliable, and tested. Suitable for home use."
+  },
+  {
+    "id": 54,
+    "sku": "SKU-00054",
+    "name": "Pioneer Clothing R13 054",
+    "brand": "Pioneer",
+    "category": "Clothing",
+    "price": 655.36,
+    "stock": 63,
+    "description": "Pioneer Clothing model R13. High quality, reliable, and tested. Suitable for clothing use."
+  },
+  {
+    "id": 55,
+    "sku": "SKU-00055",
+    "name": "Pioneer Electronic KPV 055",
+    "brand": "Pioneer",
+    "category": "Electronics",
+    "price": 635.81,
+    "stock": 419,
+    "description": "Pioneer Electronic model KPV. High quality, reliable, and tested. Suitable for electronics use."
+  },
+  {
+    "id": 56,
+    "sku": "SKU-00056",
+    "name": "Nova Toy KRC 056",
+    "brand": "Nova",
+    "category": "Toys",
+    "price": 71.03,
+    "stock": 434,
+    "description": "Nova Toy model KRC. High quality, reliable, and tested. Suitable for toys use."
+  },
+  {
+    "id": 57,
+    "sku": "SKU-00057",
+    "name": "Velox Automotive WHK 057",
+    "brand": "Velox",
+    "category": "Automotive",
+    "price": 43.22,
+    "stock": 288,
+    "description": "Velox Automotive model WHK. High quality, reliable, and tested. Suitable for automotive use."
+  },
+  {
+    "id": 58,
+    "sku": "SKU-00058",
+    "name": "Cresta Electronic QPY 058",
+    "brand": "Cresta",
+    "category": "Electronics",
+    "price": 141.63,
+    "stock": 167,
+    "description": "Cresta Electronic model QPY. High quality, reliable, and tested. Suitable for electronics use."
+  },
+  {
+    "id": 59,
+    "sku": "SKU-00059",
+    "name": "Velox Clothing KKS 059",
+    "brand": "Velox",
+    "category": "Clothing",
+    "price": 952.68,
+    "stock": 393,
+    "description": "Velox Clothing model KKS. High quality, reliable, and tested. Suitable for clothing use."
+  },
+  {
+    "id": 60,
+    "sku": "SKU-00060",
+    "name": "Cresta Electronic GVL 060",
+    "brand": "Cresta",
+    "category": "Electronics",
+    "price": 541.17,
+    "stock": 212,
+    "description": "Cresta Electronic model GVL. High quality, reliable, and tested. Suitable for electronics use."
+  },
+  {
+    "id": 61,
+    "sku": "SKU-00061",
+    "name": "Velox Beauty UM3 061",
+    "brand": "Velox",
+    "category": "Beauty",
+    "price": 682.74,
+    "stock": 383,
+    "description": "Velox Beauty model UM3. High quality, reliable, and tested. Suitable for beauty use."
+  },
+  {
+    "id": 62,
+    "sku": "SKU-00062",
+    "name": "Velox Home O5N 062",
+    "brand": "Velox",
+    "category": "Home",
+    "price": 347.71,
+    "stock": 12,
+    "description": "Velox Home model O5N. High quality, reliable, and tested. Suitable for home use."
+  },
+  {
+    "id": 63,
+    "sku": "SKU-00063",
+    "name": "Echo Home EH0 063",
+    "brand": "Echo",
+    "category": "Home",
+    "price": 619.69,
+    "stock": 134,
+    "description": "Echo Home model EH0. High quality, reliable, and tested. Suitable for home use."
+  },
+  {
+    "id": 64,
+    "sku": "SKU-00064",
+    "name": "Astra Garden 2A3 064",
+    "brand": "Astra",
+    "category": "Garden",
+    "price": 402.86,
+    "stock": 226,
+    "description": "Astra Garden model 2A3. High quality, reliable, and tested. Suitable for garden use."
+  },
+  {
+    "id": 65,
+    "sku": "SKU-00065",
+    "name": "Astra Toy ANL 065",
+    "brand": "Astra",
+    "category": "Toys",
+    "price": 594.43,
+    "stock": 37,
+    "description": "Astra Toy model ANL. High quality, reliable, and tested. Suitable for toys use."
+  },
+  {
+    "id": 66,
+    "sku": "SKU-00066",
+    "name": "Velox Kitchen 9XO 066",
+    "brand": "Velox",
+    "category": "Kitchen",
+    "price": 624.38,
+    "stock": 406,
+    "description": "Velox Kitchen model 9XO. High quality, reliable, and tested. Suitable for kitchen use."
+  },
+  {
+    "id": 67,
+    "sku": "SKU-00067",
+    "name": "Velox Clothing BAL 067",
+    "brand": "Velox",
+    "category": "Clothing",
+    "price": 998.73,
+    "stock": 159,
+    "description": "Velox Clothing model BAL. High quality, reliable, and tested. Suitable for clothing use."
+  },
+  {
+    "id": 68,
+    "sku": "SKU-00068",
+    "name": "Lumen Garden 210 068",
+    "brand": "Lumen",
+    "category": "Garden",
+    "price": 368.86,
+    "stock": 462,
+    "description": "Lumen Garden model 210. High quality, reliable, and tested. Suitable for garden use."
+  },
+  {
+    "id": 69,
+    "sku": "SKU-00069",
+    "name": "Astra Automotive R96 069",
+    "brand": "Astra",
+    "category": "Automotive",
+    "price": 70.02,
+    "stock": 171,
+    "description": "Astra Automotive model R96. High quality, reliable, and tested. Suitable for automotive use."
+  },
+  {
+    "id": 70,
+    "sku": "SKU-00070",
+    "name": "Cresta Beauty A58 070",
+    "brand": "Cresta",
+    "category": "Beauty",
+    "price": 534.23,
+    "stock": 296,
+    "description": "Cresta Beauty model A58. High quality, reliable, and tested. Suitable for beauty use."
+  },
+  {
+    "id": 71,
+    "sku": "SKU-00071",
+    "name": "Lumen Kitchen EXU 071",
+    "brand": "Lumen",
+    "category": "Kitchen",
+    "price": 704.33,
+    "stock": 434,
+    "description": "Lumen Kitchen model EXU. High quality, reliable, and tested. Suitable for kitchen use."
+  },
+  {
+    "id": 72,
+    "sku": "SKU-00072",
+    "name": "Kairo Electronic AG1 072",
+    "brand": "Kairo",
+    "category": "Electronics",
+    "price": 160.09,
+    "stock": 404,
+    "description": "Kairo Electronic model AG1. High quality, reliable, and tested. Suitable for electronics use."
+  },
+  {
+    "id": 73,
+    "sku": "SKU-00073",
+    "name": "Pioneer Sport QMA 073",
+    "brand": "Pioneer",
+    "category": "Sports",
+    "price": 30.4,
+    "stock": 294,
+    "description": "Pioneer Sport model QMA. High quality, reliable, and tested. Suitable for sports use."
+  },
+  {
+    "id": 74,
+    "sku": "SKU-00074",
+    "name": "Echo Sport S0P 074",
+    "brand": "Echo",
+    "category": "Sports",
+    "price": 327.84,
+    "stock": 449,
+    "description": "Echo Sport model S0P. High quality, reliable, and tested. Suitable for sports use."
+  },
+  {
+    "id": 75,
+    "sku": "SKU-00075",
+    "name": "Echo Toy DBV 075",
+    "brand": "Echo",
+    "category": "Toys",
+    "price": 755.7,
+    "stock": 336,
+    "description": "Echo Toy model DBV. High quality, reliable, and tested. Suitable for toys use."
+  },
+  {
+    "id": 76,
+    "sku": "SKU-00076",
+    "name": "Velox Automotive 650 076",
+    "brand": "Velox",
+    "category": "Automotive",
+    "price": 705.48,
+    "stock": 209,
+    "description": "Velox Automotive model 650. High quality, reliable, and tested. Suitable for automotive use."
+  },
+  {
+    "id": 77,
+    "sku": "SKU-00077",
+    "name": "Astra Sport CNF 077",
+    "brand": "Astra",
+    "category": "Sports",
+    "price": 218.62,
+    "stock": 329,
+    "description": "Astra Sport model CNF. High quality, reliable, and tested. Suitable for sports use."
+  },
+  {
+    "id": 78,
+    "sku": "SKU-00078",
+    "name": "Echo Sport D4L 078",
+    "brand": "Echo",
+    "category": "Sports",
+    "price": 508.03,
+    "stock": 288,
+    "description": "Echo Sport model D4L. High quality, reliable, and tested. Suitable for sports use."
+  },
+  {
+    "id": 79,
+    "sku": "SKU-00079",
+    "name": "Echo Automotive 8PD 079",
+    "brand": "Echo",
+    "category": "Automotive",
+    "price": 255.71,
+    "stock": 471,
+    "description": "Echo Automotive model 8PD. High quality, reliable, and tested. Suitable for automotive use."
+  },
+  {
+    "id": 80,
+    "sku": "SKU-00080",
+    "name": "Pioneer Book D0W 080",
+    "brand": "Pioneer",
+    "category": "Books",
+    "price": 114.52,
+    "stock": 151,
+    "description": "Pioneer Book model D0W. High quality, reliable, and tested. Suitable for books use."
+  },
+  {
+    "id": 81,
+    "sku": "SKU-00081",
+    "name": "Orbit Toy U5Q 081",
+    "brand": "Orbit",
+    "category": "Toys",
+    "price": 603.44,
+    "stock": 116,
+    "description": "Orbit Toy model U5Q. High quality, reliable, and tested. Suitable for toys use."
+  },
+  {
+    "id": 82,
+    "sku": "SKU-00082",
+    "name": "Kairo Beauty 6VY 082",
+    "brand": "Kairo",
+    "category": "Beauty",
+    "price": 331.39,
+    "stock": 45,
+    "description": "Kairo Beauty model 6VY. High quality, reliable, and tested. Suitable for beauty use."
+  },
+  {
+    "id": 83,
+    "sku": "SKU-00083",
+    "name": "Kairo Beauty 865 083",
+    "brand": "Kairo",
+    "category": "Beauty",
+    "price": 392.17,
+    "stock": 292,
+    "description": "Kairo Beauty model 865. High quality, reliable, and tested. Suitable for beauty use."
+  },
+  {
+    "id": 84,
+    "sku": "SKU-00084",
+    "name": "Echo Toy LIJ 084",
+    "brand": "Echo",
+    "category": "Toys",
+    "price": 744.99,
+    "stock": 338,
+    "description": "Echo Toy model LIJ. High quality, reliable, and tested. Suitable for toys use."
+  },
+  {
+    "id": 85,
+    "sku": "SKU-00085",
+    "name": "Velox Electronic FAZ 085",
+    "brand": "Velox",
+    "category": "Electronics",
+    "price": 631.21,
+    "stock": 113,
+    "description": "Velox Electronic model FAZ. High quality, reliable, and tested. Suitable for electronics use."
+  },
+  {
+    "id": 86,
+    "sku": "SKU-00086",
+    "name": "Zenith Sport XZA 086",
+    "brand": "Zenith",
+    "category": "Sports",
+    "price": 882.25,
+    "stock": 269,
+    "description": "Zenith Sport model XZA. High quality, reliable, and tested. Suitable for sports use."
+  },
+  {
+    "id": 87,
+    "sku": "SKU-00087",
+    "name": "Velox Kitchen MQW 087",
+    "brand": "Velox",
+    "category": "Kitchen",
+    "price": 416.5,
+    "stock": 328,
+    "description": "Velox Kitchen model MQW. High quality, reliable, and tested. Suitable for kitchen use."
+  },
+  {
+    "id": 88,
+    "sku": "SKU-00088",
+    "name": "Echo Garden 51C 088",
+    "brand": "Echo",
+    "category": "Garden",
+    "price": 102.12,
+    "stock": 316,
+    "description": "Echo Garden model 51C. High quality, reliable, and tested. Suitable for garden use."
+  },
+  {
+    "id": 89,
+    "sku": "SKU-00089",
+    "name": "Pioneer Sport 4LI 089",
+    "brand": "Pioneer",
+    "category": "Sports",
+    "price": 823.53,
+    "stock": 384,
+    "description": "Pioneer Sport model 4LI. High quality, reliable, and tested. Suitable for sports use."
+  },
+  {
+    "id": 90,
+    "sku": "SKU-00090",
+    "name": "Astra Automotive J7C 090",
+    "brand": "Astra",
+    "category": "Automotive",
+    "price": 544.95,
+    "stock": 245,
+    "description": "Astra Automotive model J7C. High quality, reliable, and tested. Suitable for automotive use."
+  },
+  {
+    "id": 91,
+    "sku": "SKU-00091",
+    "name": "Velox Sport JZ7 091",
+    "brand": "Velox",
+    "category": "Sports",
+    "price": 161.21,
+    "stock": 304,
+    "description": "Velox Sport model JZ7. High quality, reliable, and tested. Suitable for sports use."
+  },
+  {
+    "id": 92,
+    "sku": "SKU-00092",
+    "name": "Pioneer Toy VQB 092",
+    "brand": "Pioneer",
+    "category": "Toys",
+    "price": 729.9,
+    "stock": 130,
+    "description": "Pioneer Toy model VQB. High quality, reliable, and tested. Suitable for toys use."
+  },
+  {
+    "id": 93,
+    "sku": "SKU-00093",
+    "name": "Echo Garden 6PV 093",
+    "brand": "Echo",
+    "category": "Garden",
+    "price": 541.8,
+    "stock": 222,
+    "description": "Echo Garden model 6PV. High quality, reliable, and tested. Suitable for garden use."
+  },
+  {
+    "id": 94,
+    "sku": "SKU-00094",
+    "name": "Astra Home C56 094",
+    "brand": "Astra",
+    "category": "Home",
+    "price": 955.33,
+    "stock": 19,
+    "description": "Astra Home model C56. High quality, reliable, and tested. Suitable for home use."
+  },
+  {
+    "id": 95,
+    "sku": "SKU-00095",
+    "name": "Kairo Book 3JQ 095",
+    "brand": "Kairo",
+    "category": "Books",
+    "price": 800.1,
+    "stock": 78,
+    "description": "Kairo Book model 3JQ. High quality, reliable, and tested. Suitable for books use."
+  },
+  {
+    "id": 96,
+    "sku": "SKU-00096",
+    "name": "Lumen Home K7O 096",
+    "brand": "Lumen",
+    "category": "Home",
+    "price": 143.4,
+    "stock": 222,
+    "description": "Lumen Home model K7O. High quality, reliable, and tested. Suitable for home use."
+  },
+  {
+    "id": 97,
+    "sku": "SKU-00097",
+    "name": "Pioneer Beauty ZK7 097",
+    "brand": "Pioneer",
+    "category": "Beauty",
+    "price": 604.78,
+    "stock": 265,
+    "description": "Pioneer Beauty model ZK7. High quality, reliable, and tested. Suitable for beauty use."
+  },
+  {
+    "id": 98,
+    "sku": "SKU-00098",
+    "name": "Zenith Home FJP 098",
+    "brand": "Zenith",
+    "category": "Home",
+    "price": 85.38,
+    "stock": 469,
+    "description": "Zenith Home model FJP. High quality, reliable, and tested. Suitable for home use."
+  },
+  {
+    "id": 99,
+    "sku": "SKU-00099",
+    "name": "Kairo Clothing VMF 099",
+    "brand": "Kairo",
+    "category": "Clothing",
+    "price": 62.87,
+    "stock": 459,
+    "description": "Kairo Clothing model VMF. High quality, reliable, and tested. Suitable for clothing use."
+  },
+  {
+    "id": 100,
+    "sku": "SKU-00100",
+    "name": "Kairo Automotive UP0 100",
+    "brand": "Kairo",
+    "category": "Automotive",
+    "price": 15.4,
+    "stock": 256,
+    "description": "Kairo Automotive model UP0. High quality, reliable, and tested. Suitable for automotive use."
+  },
+  {
+    "id": 101,
+    "sku": "SKU-00101",
+    "name": "Nova Book REN 101",
+    "brand": "Nova",
+    "category": "Books",
+    "price": 414.51,
+    "stock": 90,
+    "description": "Nova Book model REN. High quality, reliable, and tested. Suitable for books use."
+  },
+  {
+    "id": 102,
+    "sku": "SKU-00102",
+    "name": "Pioneer Toy P1A 102",
+    "brand": "Pioneer",
+    "category": "Toys",
+    "price": 859.29,
+    "stock": 1,
+    "description": "Pioneer Toy model P1A. High quality, reliable, and tested. Suitable for toys use."
+  },
+  {
+    "id": 103,
+    "sku": "SKU-00103",
+    "name": "Nova Electronic E3A 103",
+    "brand": "Nova",
+    "category": "Electronics",
+    "price": 590.93,
+    "stock": 48,
+    "description": "Nova Electronic model E3A. High quality, reliable, and tested. Suitable for electronics use."
+  },
+  {
+    "id": 104,
+    "sku": "SKU-00104",
+    "name": "Lumen Sport ODM 104",
+    "brand": "Lumen",
+    "category": "Sports",
+    "price": 681.38,
+    "stock": 192,
+    "description": "Lumen Sport model ODM. High quality, reliable, and tested. Suitable for sports use."
+  },
+  {
+    "id": 105,
+    "sku": "SKU-00105",
+    "name": "Zenith Sport BHV 105",
+    "brand": "Zenith",
+    "category": "Sports",
+    "price": 997.69,
+    "stock": 216,
+    "description": "Zenith Sport model BHV. High quality, reliable, and tested. Suitable for sports use."
+  },
+  {
+    "id": 106,
+    "sku": "SKU-00106",
+    "name": "Pioneer Toy UV4 106",
+    "brand": "Pioneer",
+    "category": "Toys",
+    "price": 74.49,
+    "stock": 378,
+    "description": "Pioneer Toy model UV4. High quality, reliable, and tested. Suitable for toys use."
+  },
+  {
+    "id": 107,
+    "sku": "SKU-00107",
+    "name": "Echo Toy W92 107",
+    "brand": "Echo",
+    "category": "Toys",
+    "price": 187.24,
+    "stock": 90,
+    "description": "Echo Toy model W92. High quality, reliable, and tested. Suitable for toys use."
+  },
+  {
+    "id": 108,
+    "sku": "SKU-00108",
+    "name": "Orbit Clothing 9HP 108",
+    "brand": "Orbit",
+    "category": "Clothing",
+    "price": 664.91,
+    "stock": 211,
+    "description": "Orbit Clothing model 9HP. High quality, reliable, and tested. Suitable for clothing use."
+  },
+  {
+    "id": 109,
+    "sku": "SKU-00109",
+    "name": "Zenith Clothing NKV 109",
+    "brand": "Zenith",
+    "category": "Clothing",
+    "price": 227.55,
+    "stock": 131,
+    "description": "Zenith Clothing model NKV. High quality, reliable, and tested. Suitable for clothing use."
+  },
+  {
+    "id": 110,
+    "sku": "SKU-00110",
+    "name": "Nova Home N5O 110",
+    "brand": "Nova",
+    "category": "Home",
+    "price": 726.6,
+    "stock": 426,
+    "description": "Nova Home model N5O. High quality, reliable, and tested. Suitable for home use."
+  },
+  {
+    "id": 111,
+    "sku": "SKU-00111",
+    "name": "Kairo Home 2TM 111",
+    "brand": "Kairo",
+    "category": "Home",
+    "price": 261.85,
+    "stock": 76,
+    "description": "Kairo Home model 2TM. High quality, reliable, and tested. Suitable for home use."
+  },
+  {
+    "id": 112,
+    "sku": "SKU-00112",
+    "name": "Velox Sport EB7 112",
+    "brand": "Velox",
+    "category": "Sports",
+    "price": 907.37,
+    "stock": 319,
+    "description": "Velox Sport model EB7. High quality, reliable, and tested. Suitable for sports use."
+  },
+  {
+    "id": 113,
+    "sku": "SKU-00113",
+    "name": "Pioneer Sport 5E1 113",
+    "brand": "Pioneer",
+    "category": "Sports",
+    "price": 123.15,
+    "stock": 447,
+    "description": "Pioneer Sport model 5E1. High quality, reliable, and tested. Suitable for sports use."
+  },
+  {
+    "id": 114,
+    "sku": "SKU-00114",
+    "name": "Lumen Automotive BNX 114",
+    "brand": "Lumen",
+    "category": "Automotive",
+    "price": 810.03,
+    "stock": 448,
+    "description": "Lumen Automotive model BNX. High quality, reliable, and tested. Suitable for automotive use."
+  },
+  {
+    "id": 115,
+    "sku": "SKU-00115",
+    "name": "Echo Book WCR 115",
+    "brand": "Echo",
+    "category": "Books",
+    "price": 57.78,
+    "stock": 80,
+    "description": "Echo Book model WCR. High quality, reliable, and tested. Suitable for books use."
+  },
+  {
+    "id": 116,
+    "sku": "SKU-00116",
+    "name": "Velox Beauty I18 116",
+    "brand": "Velox",
+    "category": "Beauty",
+    "price": 325.47,
+    "stock": 65,
+    "description": "Velox Beauty model I18. High quality, reliable, and tested. Suitable for beauty use."
+  },
+  {
+    "id": 117,
+    "sku": "SKU-00117",
+    "name": "Kairo Home QN4 117",
+    "brand": "Kairo",
+    "category": "Home",
+    "price": 771.74,
+    "stock": 146,
+    "description": "Kairo Home model QN4. High quality, reliable, and tested. Suitable for home use."
+  },
+  {
+    "id": 118,
+    "sku": "SKU-00118",
+    "name": "Cresta Clothing EZD 118",
+    "brand": "Cresta",
+    "category": "Clothing",
+    "price": 872.54,
+    "stock": 5,
+    "description": "Cresta Clothing model EZD. High quality, reliable, and tested. Suitable for clothing use."
+  },
+  {
+    "id": 119,
+    "sku": "SKU-00119",
+    "name": "Pioneer Clothing 5GI 119",
+    "brand": "Pioneer",
+    "category": "Clothing",
+    "price": 707.03,
+    "stock": 150,
+    "description": "Pioneer Clothing model 5GI. High quality, reliable, and tested. Suitable for clothing use."
+  },
+  {
+    "id": 120,
+    "sku": "SKU-00120",
+    "name": "Echo Garden 3WU 120",
+    "brand": "Echo",
+    "category": "Garden",
+    "price": 631.36,
+    "stock": 448,
+    "description": "Echo Garden model 3WU. High quality, reliable, and tested. Suitable for garden use."
+  },
+  {
+    "id": 121,
+    "sku": "SKU-00121",
+    "name": "Zenith Electronic S3D 121",
+    "brand": "Zenith",
+    "category": "Electronics",
+    "price": 483.94,
+    "stock": 100,
+    "description": "Zenith Electronic model S3D. High quality, reliable, and tested. Suitable for electronics use."
+  },
+  {
+    "id": 122,
+    "sku": "SKU-00122",
+    "name": "Astra Electronic GK0 122",
+    "brand": "Astra",
+    "category": "Electronics",
+    "price": 793.81,
+    "stock": 221,
+    "description": "Astra Electronic model GK0. High quality, reliable, and tested. Suitable for electronics use."
+  },
+  {
+    "id": 123,
+    "sku": "SKU-00123",
+    "name": "Kairo Home 07U 123",
+    "brand": "Kairo",
+    "category": "Home",
+    "price": 61.88,
+    "stock": 137,
+    "description": "Kairo Home model 07U. High quality, reliable, and tested. Suitable for home use."
+  },
+  {
+    "id": 124,
+    "sku": "SKU-00124",
+    "name": "Cresta Sport 4RN 124",
+    "brand": "Cresta",
+    "category": "Sports",
+    "price": 445.19,
+    "stock": 237,
+    "description": "Cresta Sport model 4RN. High quality, reliable, and tested. Suitable for sports use."
+  },
+  {
+    "id": 125,
+    "sku": "SKU-00125",
+    "name": "Pioneer Clothing I86 125",
+    "brand": "Pioneer",
+    "category": "Clothing",
+    "price": 473.34,
+    "stock": 346,
+    "description": "Pioneer Clothing model I86. High quality, reliable, and tested. Suitable for clothing use."
+  },
+  {
+    "id": 126,
+    "sku": "SKU-00126",
+    "name": "Astra Sport SXB 126",
+    "brand": "Astra",
+    "category": "Sports",
+    "price": 219.61,
+    "stock": 352,
+    "description": "Astra Sport model SXB. High quality, reliable, and tested. Suitable for sports use."
+  },
+  {
+    "id": 127,
+    "sku": "SKU-00127",
+    "name": "Pioneer Electronic QA8 127",
+    "brand": "Pioneer",
+    "category": "Electronics",
+    "price": 92.2,
+    "stock": 227,
+    "description": "Pioneer Electronic model QA8. High quality, reliable, and tested. Suitable for electronics use."
+  },
+  {
+    "id": 128,
+    "sku": "SKU-00128",
+    "name": "Zenith Electronic QNV 128",
+    "brand": "Zenith",
+    "category": "Electronics",
+    "price": 53.78,
+    "stock": 439,
+    "description": "Zenith Electronic model QNV. High quality, reliable, and tested. Suitable for electronics use."
+  },
+  {
+    "id": 129,
+    "sku": "SKU-00129",
+    "name": "Nova Garden FAU 129",
+    "brand": "Nova",
+    "category": "Garden",
+    "price": 359.73,
+    "stock": 300,
+    "description": "Nova Garden model FAU. High quality, reliable, and tested. Suitable for garden use."
+  },
+  {
+    "id": 130,
+    "sku": "SKU-00130",
+    "name": "Kairo Garden RR7 130",
+    "brand": "Kairo",
+    "category": "Garden",
+    "price": 632.22,
+    "stock": 363,
+    "description": "Kairo Garden model RR7. High quality, reliable, and tested. Suitable for garden use."
+  },
+  {
+    "id": 131,
+    "sku": "SKU-00131",
+    "name": "Velox Sport 3PY 131",
+    "brand": "Velox",
+    "category": "Sports",
+    "price": 88.47,
+    "stock": 216,
+    "description": "Velox Sport model 3PY. High quality, reliable, and tested. Suitable for sports use."
+  },
+  {
+    "id": 132,
+    "sku": "SKU-00132",
+    "name": "Echo Kitchen X1T 132",
+    "brand": "Echo",
+    "category": "Kitchen",
+    "price": 99.96,
+    "stock": 187,
+    "description": "Echo Kitchen model X1T. High quality, reliable, and tested. Suitable for kitchen use."
+  },
+  {
+    "id": 133,
+    "sku": "SKU-00133",
+    "name": "Zenith Sport 3RE 133",
+    "brand": "Zenith",
+    "category": "Sports",
+    "price": 492.37,
+    "stock": 406,
+    "description": "Zenith Sport model 3RE. High quality, reliable, and tested. Suitable for sports use."
+  },
+  {
+    "id": 134,
+    "sku": "SKU-00134",
+    "name": "Pioneer Automotive 0TO 134",
+    "brand": "Pioneer",
+    "category": "Automotive",
+    "price": 487.88,
+    "stock": 63,
+    "description": "Pioneer Automotive model 0TO. High quality, reliable, and tested. Suitable for automotive use."
+  },
+  {
+    "id": 135,
+    "sku": "SKU-00135",
+    "name": "Cresta Kitchen GVR 135",
+    "brand": "Cresta",
+    "category": "Kitchen",
+    "price": 704.44,
+    "stock": 239,
+    "description": "Cresta Kitchen model GVR. High quality, reliable, and tested. Suitable for kitchen use."
+  },
+  {
+    "id": 136,
+    "sku": "SKU-00136",
+    "name": "Orbit Electronic V2C 136",
+    "brand": "Orbit",
+    "category": "Electronics",
+    "price": 862.68,
+    "stock": 108,
+    "description": "Orbit Electronic model V2C. High quality, reliable, and tested. Suitable for electronics use."
+  },
+  {
+    "id": 137,
+    "sku": "SKU-00137",
+    "name": "Cresta Automotive QO6 137",
+    "brand": "Cresta",
+    "category": "Automotive",
+    "price": 267.01,
+    "stock": 148,
+    "description": "Cresta Automotive model QO6. High quality, reliable, and tested. Suitable for automotive use."
+  },
+  {
+    "id": 138,
+    "sku": "SKU-00138",
+    "name": "Velox Sport X5S 138",
+    "brand": "Velox",
+    "category": "Sports",
+    "price": 429.97,
+    "stock": 425,
+    "description": "Velox Sport model X5S. High quality, reliable, and tested. Suitable for sports use."
+  },
+  {
+    "id": 139,
+    "sku": "SKU-00139",
+    "name": "Kairo Book GV7 139",
+    "brand": "Kairo",
+    "category": "Books",
+    "price": 594.14,
+    "stock": 303,
+    "description": "Kairo Book model GV7. High quality, reliable, and tested. Suitable for books use."
+  },
+  {
+    "id": 140,
+    "sku": "SKU-00140",
+    "name": "Pioneer Beauty 6PL 140",
+    "brand": "Pioneer",
+    "category": "Beauty",
+    "price": 651.54,
+    "stock": 18,
+    "description": "Pioneer Beauty model 6PL. High quality, reliable, and tested. Suitable for beauty use."
+  },
+  {
+    "id": 141,
+    "sku": "SKU-00141",
+    "name": "Lumen Toy M65 141",
+    "brand": "Lumen",
+    "category": "Toys",
+    "price": 195.47,
+    "stock": 88,
+    "description": "Lumen Toy model M65. High quality, reliable, and tested. Suitable for toys use."
+  },
+  {
+    "id": 142,
+    "sku": "SKU-00142",
+    "name": "Pioneer Clothing OCD 142",
+    "brand": "Pioneer",
+    "category": "Clothing",
+    "price": 153.56,
+    "stock": 450,
+    "description": "Pioneer Clothing model OCD. High quality, reliable, and tested. Suitable for clothing use."
+  },
+  {
+    "id": 143,
+    "sku": "SKU-00143",
+    "name": "Astra Electronic KH2 143",
+    "brand": "Astra",
+    "category": "Electronics",
+    "price": 229.87,
+    "stock": 380,
+    "description": "Astra Electronic model KH2. High quality, reliable, and tested. Suitable for electronics use."
+  },
+  {
+    "id": 144,
+    "sku": "SKU-00144",
+    "name": "Echo Clothing V6H 144",
+    "brand": "Echo",
+    "category": "Clothing",
+    "price": 56.04,
+    "stock": 384,
+    "description": "Echo Clothing model V6H. High quality, reliable, and tested. Suitable for clothing use."
+  },
+  {
+    "id": 145,
+    "sku": "SKU-00145",
+    "name": "Kairo Clothing R2W 145",
+    "brand": "Kairo",
+    "category": "Clothing",
+    "price": 566.71,
+    "stock": 198,
+    "description": "Kairo Clothing model R2W. High quality, reliable, and tested. Suitable for clothing use."
+  },
+  {
+    "id": 146,
+    "sku": "SKU-00146",
+    "name": "Echo Kitchen URU 146",
+    "brand": "Echo",
+    "category": "Kitchen",
+    "price": 611.49,
+    "stock": 436,
+    "description": "Echo Kitchen model URU. High quality, reliable, and tested. Suitable for kitchen use."
+  },
+  {
+    "id": 147,
+    "sku": "SKU-00147",
+    "name": "Nova Toy WPW 147",
+    "brand": "Nova",
+    "category": "Toys",
+    "price": 572.66,
+    "stock": 349,
+    "description": "Nova Toy model WPW. High quality, reliable, and tested. Suitable for toys use."
+  },
+  {
+    "id": 148,
+    "sku": "SKU-00148",
+    "name": "Velox Clothing 42J 148",
+    "brand": "Velox",
+    "category": "Clothing",
+    "price": 691.75,
+    "stock": 493,
+    "description": "Velox Clothing model 42J. High quality, reliable, and tested. Suitable for clothing use."
+  },
+  {
+    "id": 149,
+    "sku": "SKU-00149",
+    "name": "Zenith Automotive YW1 149",
+    "brand": "Zenith",
+    "category": "Automotive",
+    "price": 6.43,
+    "stock": 242,
+    "description": "Zenith Automotive model YW1. High quality, reliable, and tested. Suitable for automotive use."
+  },
+  {
+    "id": 150,
+    "sku": "SKU-00150",
+    "name": "Nova Kitchen OIE 150",
+    "brand": "Nova",
+    "category": "Kitchen",
+    "price": 636,
+    "stock": 201,
+    "description": "Nova Kitchen model OIE. High quality, reliable, and tested. Suitable for kitchen use."
+  },
+  {
+    "id": 151,
+    "sku": "SKU-00151",
+    "name": "Zenith Home YMU 151",
+    "brand": "Zenith",
+    "category": "Home",
+    "price": 425.33,
+    "stock": 146,
+    "description": "Zenith Home model YMU. High quality, reliable, and tested. Suitable for home use."
+  },
+  {
+    "id": 152,
+    "sku": "SKU-00152",
+    "name": "Echo Toy BAW 152",
+    "brand": "Echo",
+    "category": "Toys",
+    "price": 216.26,
+    "stock": 91,
+    "description": "Echo Toy model BAW. High quality, reliable, and tested. Suitable for toys use."
+  },
+  {
+    "id": 153,
+    "sku": "SKU-00153",
+    "name": "Velox Electronic 3VM 153",
+    "brand": "Velox",
+    "category": "Electronics",
+    "price": 61.23,
+    "stock": 362,
+    "description": "Velox Electronic model 3VM. High quality, reliable, and tested. Suitable for electronics use."
+  },
+  {
+    "id": 154,
+    "sku": "SKU-00154",
+    "name": "Pioneer Home 5CK 154",
+    "brand": "Pioneer",
+    "category": "Home",
+    "price": 772.2,
+    "stock": 321,
+    "description": "Pioneer Home model 5CK. High quality, reliable, and tested. Suitable for home use."
+  },
+  {
+    "id": 155,
+    "sku": "SKU-00155",
+    "name": "Kairo Kitchen S8H 155",
+    "brand": "Kairo",
+    "category": "Kitchen",
+    "price": 103.54,
+    "stock": 185,
+    "description": "Kairo Kitchen model S8H. High quality, reliable, and tested. Suitable for kitchen use."
+  },
+  {
+    "id": 156,
+    "sku": "SKU-00156",
+    "name": "Velox Book 0OU 156",
+    "brand": "Velox",
+    "category": "Books",
+    "price": 943.29,
+    "stock": 441,
+    "description": "Velox Book model 0OU. High quality, reliable, and tested. Suitable for books use."
+  },
+  {
+    "id": 157,
+    "sku": "SKU-00157",
+    "name": "Lumen Kitchen 6CF 157",
+    "brand": "Lumen",
+    "category": "Kitchen",
+    "price": 726.68,
+    "stock": 444,
+    "description": "Lumen Kitchen model 6CF. High quality, reliable, and tested. Suitable for kitchen use."
+  },
+  {
+    "id": 158,
+    "sku": "SKU-00158",
+    "name": "Echo Kitchen XM9 158",
+    "brand": "Echo",
+    "category": "Kitchen",
+    "price": 223.52,
+    "stock": 430,
+    "description": "Echo Kitchen model XM9. High quality, reliable, and tested. Suitable for kitchen use."
+  },
+  {
+    "id": 159,
+    "sku": "SKU-00159",
+    "name": "Nova Garden 2O4 159",
+    "brand": "Nova",
+    "category": "Garden",
+    "price": 362.97,
+    "stock": 429,
+    "description": "Nova Garden model 2O4. High quality, reliable, and tested. Suitable for garden use."
+  },
+  {
+    "id": 160,
+    "sku": "SKU-00160",
+    "name": "Zenith Toy 4Z3 160",
+    "brand": "Zenith",
+    "category": "Toys",
+    "price": 568.67,
+    "stock": 180,
+    "description": "Zenith Toy model 4Z3. High quality, reliable, and tested. Suitable for toys use."
+  },
+  {
+    "id": 161,
+    "sku": "SKU-00161",
+    "name": "Lumen Automotive AZJ 161",
+    "brand": "Lumen",
+    "category": "Automotive",
+    "price": 41.44,
+    "stock": 492,
+    "description": "Lumen Automotive model AZJ. High quality, reliable, and tested. Suitable for automotive use."
+  },
+  {
+    "id": 162,
+    "sku": "SKU-00162",
+    "name": "Lumen Garden MG1 162",
+    "brand": "Lumen",
+    "category": "Garden",
+    "price": 27.48,
+    "stock": 454,
+    "description": "Lumen Garden model MG1. High quality, reliable, and tested. Suitable for garden use."
+  },
+  {
+    "id": 163,
+    "sku": "SKU-00163",
+    "name": "Cresta Beauty QRY 163",
+    "brand": "Cresta",
+    "category": "Beauty",
+    "price": 693.41,
+    "stock": 396,
+    "description": "Cresta Beauty model QRY. High quality, reliable, and tested. Suitable for beauty use."
+  },
+  {
+    "id": 164,
+    "sku": "SKU-00164",
+    "name": "Lumen Clothing SXZ 164",
+    "brand": "Lumen",
+    "category": "Clothing",
+    "price": 9,
+    "stock": 2,
+    "description": "Lumen Clothing model SXZ. High quality, reliable, and tested. Suitable for clothing use."
+  },
+  {
+    "id": 165,
+    "sku": "SKU-00165",
+    "name": "Velox Clothing M6K 165",
+    "brand": "Velox",
+    "category": "Clothing",
+    "price": 724.86,
+    "stock": 438,
+    "description": "Velox Clothing model M6K. High quality, reliable, and tested. Suitable for clothing use."
+  },
+  {
+    "id": 166,
+    "sku": "SKU-00166",
+    "name": "Lumen Toy EQI 166",
+    "brand": "Lumen",
+    "category": "Toys",
+    "price": 947.32,
+    "stock": 72,
+    "description": "Lumen Toy model EQI. High quality, reliable, and tested. Suitable for toys use."
+  },
+  {
+    "id": 167,
+    "sku": "SKU-00167",
+    "name": "Pioneer Electronic ORL 167",
+    "brand": "Pioneer",
+    "category": "Electronics",
+    "price": 782.62,
+    "stock": 378,
+    "description": "Pioneer Electronic model ORL. High quality, reliable, and tested. Suitable for electronics use."
+  },
+  {
+    "id": 168,
+    "sku": "SKU-00168",
+    "name": "Pioneer Toy 609 168",
+    "brand": "Pioneer",
+    "category": "Toys",
+    "price": 495.44,
+    "stock": 472,
+    "description": "Pioneer Toy model 609. High quality, reliable, and tested. Suitable for toys use."
+  },
+  {
+    "id": 169,
+    "sku": "SKU-00169",
+    "name": "Cresta Kitchen T90 169",
+    "brand": "Cresta",
+    "category": "Kitchen",
+    "price": 339.03,
+    "stock": 116,
+    "description": "Cresta Kitchen model T90. High quality, reliable, and tested. Suitable for kitchen use."
+  },
+  {
+    "id": 170,
+    "sku": "SKU-00170",
+    "name": "Echo Clothing P1T 170",
+    "brand": "Echo",
+    "category": "Clothing",
+    "price": 254.71,
+    "stock": 151,
+    "description": "Echo Clothing model P1T. High quality, reliable, and tested. Suitable for clothing use."
+  },
+  {
+    "id": 171,
+    "sku": "SKU-00171",
+    "name": "Lumen Book F2E 171",
+    "brand": "Lumen",
+    "category": "Books",
+    "price": 920.11,
+    "stock": 465,
+    "description": "Lumen Book model F2E. High quality, reliable, and tested. Suitable for books use."
+  },
+  {
+    "id": 172,
+    "sku": "SKU-00172",
+    "name": "Orbit Electronic HEA 172",
+    "brand": "Orbit",
+    "category": "Electronics",
+    "price": 65.61,
+    "stock": 327,
+    "description": "Orbit Electronic model HEA. High quality, reliable, and tested. Suitable for electronics use."
+  },
+  {
+    "id": 173,
+    "sku": "SKU-00173",
+    "name": "Astra Clothing 64Q 173",
+    "brand": "Astra",
+    "category": "Clothing",
+    "price": 159.49,
+    "stock": 296,
+    "description": "Astra Clothing model 64Q. High quality, reliable, and tested. Suitable for clothing use."
+  },
+  {
+    "id": 174,
+    "sku": "SKU-00174",
+    "name": "Orbit Automotive I6Y 174",
+    "brand": "Orbit",
+    "category": "Automotive",
+    "price": 477.15,
+    "stock": 317,
+    "description": "Orbit Automotive model I6Y. High quality, reliable, and tested. Suitable for automotive use."
+  },
+  {
+    "id": 175,
+    "sku": "SKU-00175",
+    "name": "Nova Sport L85 175",
+    "brand": "Nova",
+    "category": "Sports",
+    "price": 960.06,
+    "stock": 237,
+    "description": "Nova Sport model L85. High quality, reliable, and tested. Suitable for sports use."
+  },
+  {
+    "id": 176,
+    "sku": "SKU-00176",
+    "name": "Astra Home EQM 176",
+    "brand": "Astra",
+    "category": "Home",
+    "price": 715.82,
+    "stock": 461,
+    "description": "Astra Home model EQM. High quality, reliable, and tested. Suitable for home use."
+  },
+  {
+    "id": 177,
+    "sku": "SKU-00177",
+    "name": "Nova Toy VDU 177",
+    "brand": "Nova",
+    "category": "Toys",
+    "price": 359,
+    "stock": 203,
+    "description": "Nova Toy model VDU. High quality, reliable, and tested. Suitable for toys use."
+  },
+  {
+    "id": 178,
+    "sku": "SKU-00178",
+    "name": "Pioneer Automotive GAB 178",
+    "brand": "Pioneer",
+    "category": "Automotive",
+    "price": 637.53,
+    "stock": 72,
+    "description": "Pioneer Automotive model GAB. High quality, reliable, and tested. Suitable for automotive use."
+  },
+  {
+    "id": 179,
+    "sku": "SKU-00179",
+    "name": "Echo Beauty PFB 179",
+    "brand": "Echo",
+    "category": "Beauty",
+    "price": 226.74,
+    "stock": 96,
+    "description": "Echo Beauty model PFB. High quality, reliable, and tested. Suitable for beauty use."
+  },
+  {
+    "id": 180,
+    "sku": "SKU-00180",
+    "name": "Kairo Sport BYI 180",
+    "brand": "Kairo",
+    "category": "Sports",
+    "price": 476.89,
+    "stock": 488,
+    "description": "Kairo Sport model BYI. High quality, reliable, and tested. Suitable for sports use."
+  },
+  {
+    "id": 181,
+    "sku": "SKU-00181",
+    "name": "Kairo Kitchen OTR 181",
+    "brand": "Kairo",
+    "category": "Kitchen",
+    "price": 127.43,
+    "stock": 9,
+    "description": "Kairo Kitchen model OTR. High quality, reliable, and tested. Suitable for kitchen use."
+  },
+  {
+    "id": 182,
+    "sku": "SKU-00182",
+    "name": "Echo Electronic HTC 182",
+    "brand": "Echo",
+    "category": "Electronics",
+    "price": 349.13,
+    "stock": 112,
+    "description": "Echo Electronic model HTC. High quality, reliable, and tested. Suitable for electronics use."
+  },
+  {
+    "id": 183,
+    "sku": "SKU-00183",
+    "name": "Echo Toy A85 183",
+    "brand": "Echo",
+    "category": "Toys",
+    "price": 114.77,
+    "stock": 125,
+    "description": "Echo Toy model A85. High quality, reliable, and tested. Suitable for toys use."
+  },
+  {
+    "id": 184,
+    "sku": "SKU-00184",
+    "name": "Zenith Toy YQ7 184",
+    "brand": "Zenith",
+    "category": "Toys",
+    "price": 749.9,
+    "stock": 392,
+    "description": "Zenith Toy model YQ7. High quality, reliable, and tested. Suitable for toys use."
+  },
+  {
+    "id": 185,
+    "sku": "SKU-00185",
+    "name": "Velox Automotive PFE 185",
+    "brand": "Velox",
+    "category": "Automotive",
+    "price": 188.45,
+    "stock": 355,
+    "description": "Velox Automotive model PFE. High quality, reliable, and tested. Suitable for automotive use."
+  },
+  {
+    "id": 186,
+    "sku": "SKU-00186",
+    "name": "Echo Home UZF 186",
+    "brand": "Echo",
+    "category": "Home",
+    "price": 998.45,
+    "stock": 97,
+    "description": "Echo Home model UZF. High quality, reliable, and tested. Suitable for home use."
+  },
+  {
+    "id": 187,
+    "sku": "SKU-00187",
+    "name": "Orbit Garden 8ZD 187",
+    "brand": "Orbit",
+    "category": "Garden",
+    "price": 221.33,
+    "stock": 435,
+    "description": "Orbit Garden model 8ZD. High quality, reliable, and tested. Suitable for garden use."
+  },
+  {
+    "id": 188,
+    "sku": "SKU-00188",
+    "name": "Cresta Book SPS 188",
+    "brand": "Cresta",
+    "category": "Books",
+    "price": 125.83,
+    "stock": 126,
+    "description": "Cresta Book model SPS. High quality, reliable, and tested. Suitable for books use."
+  },
+  {
+    "id": 189,
+    "sku": "SKU-00189",
+    "name": "Lumen Automotive 8S8 189",
+    "brand": "Lumen",
+    "category": "Automotive",
+    "price": 436.11,
+    "stock": 125,
+    "description": "Lumen Automotive model 8S8. High quality, reliable, and tested. Suitable for automotive use."
+  },
+  {
+    "id": 190,
+    "sku": "SKU-00190",
+    "name": "Lumen Book HEI 190",
+    "brand": "Lumen",
+    "category": "Books",
+    "price": 856.22,
+    "stock": 169,
+    "description": "Lumen Book model HEI. High quality, reliable, and tested. Suitable for books use."
+  },
+  {
+    "id": 191,
+    "sku": "SKU-00191",
+    "name": "Echo Kitchen BR5 191",
+    "brand": "Echo",
+    "category": "Kitchen",
+    "price": 538.46,
+    "stock": 369,
+    "description": "Echo Kitchen model BR5. High quality, reliable, and tested. Suitable for kitchen use."
+  },
+  {
+    "id": 192,
+    "sku": "SKU-00192",
+    "name": "Nova Toy XXV 192",
+    "brand": "Nova",
+    "category": "Toys",
+    "price": 851.11,
+    "stock": 463,
+    "description": "Nova Toy model XXV. High quality, reliable, and tested. Suitable for toys use."
+  },
+  {
+    "id": 193,
+    "sku": "SKU-00193",
+    "name": "Zenith Clothing HCV 193",
+    "brand": "Zenith",
+    "category": "Clothing",
+    "price": 407.44,
+    "stock": 402,
+    "description": "Zenith Clothing model HCV. High quality, reliable, and tested. Suitable for clothing use."
+  },
+  {
+    "id": 194,
+    "sku": "SKU-00194",
+    "name": "Velox Beauty 20M 194",
+    "brand": "Velox",
+    "category": "Beauty",
+    "price": 415.74,
+    "stock": 307,
+    "description": "Velox Beauty model 20M. High quality, reliable, and tested. Suitable for beauty use."
+  },
+  {
+    "id": 195,
+    "sku": "SKU-00195",
+    "name": "Pioneer Home 5YE 195",
+    "brand": "Pioneer",
+    "category": "Home",
+    "price": 959.16,
+    "stock": 452,
+    "description": "Pioneer Home model 5YE. High quality, reliable, and tested. Suitable for home use."
+  },
+  {
+    "id": 196,
+    "sku": "SKU-00196",
+    "name": "Pioneer Toy A05 196",
+    "brand": "Pioneer",
+    "category": "Toys",
+    "price": 944.73,
+    "stock": 94,
+    "description": "Pioneer Toy model A05. High quality, reliable, and tested. Suitable for toys use."
+  },
+  {
+    "id": 197,
+    "sku": "SKU-00197",
+    "name": "Astra Toy OPJ 197",
+    "brand": "Astra",
+    "category": "Toys",
+    "price": 793.42,
+    "stock": 77,
+    "description": "Astra Toy model OPJ. High quality, reliable, and tested. Suitable for toys use."
+  },
+  {
+    "id": 198,
+    "sku": "SKU-00198",
+    "name": "Zenith Clothing VZA 198",
+    "brand": "Zenith",
+    "category": "Clothing",
+    "price": 616.33,
+    "stock": 445,
+    "description": "Zenith Clothing model VZA. High quality, reliable, and tested. Suitable for clothing use."
+  },
+  {
+    "id": 199,
+    "sku": "SKU-00199",
+    "name": "Lumen Book VQ1 199",
+    "brand": "Lumen",
+    "category": "Books",
+    "price": 142.21,
+    "stock": 260,
+    "description": "Lumen Book model VQ1. High quality, reliable, and tested. Suitable for books use."
+  },
+  {
+    "id": 200,
+    "sku": "SKU-00200",
+    "name": "Kairo Book JK5 200",
+    "brand": "Kairo",
+    "category": "Books",
+    "price": 706.58,
+    "stock": 228,
+    "description": "Kairo Book model JK5. High quality, reliable, and tested. Suitable for books use."
+  },
+  {
+    "id": 201,
+    "sku": "SKU-00201",
+    "name": "Lumen Beauty 4TJ 201",
+    "brand": "Lumen",
+    "category": "Beauty",
+    "price": 399.77,
+    "stock": 326,
+    "description": "Lumen Beauty model 4TJ. High quality, reliable, and tested. Suitable for beauty use."
+  },
+  {
+    "id": 202,
+    "sku": "SKU-00202",
+    "name": "Lumen Toy NWF 202",
+    "brand": "Lumen",
+    "category": "Toys",
+    "price": 726.01,
+    "stock": 36,
+    "description": "Lumen Toy model NWF. High quality, reliable, and tested. Suitable for toys use."
+  },
+  {
+    "id": 203,
+    "sku": "SKU-00203",
+    "name": "Echo Home 2KW 203",
+    "brand": "Echo",
+    "category": "Home",
+    "price": 850.09,
+    "stock": 397,
+    "description": "Echo Home model 2KW. High quality, reliable, and tested. Suitable for home use."
+  },
+  {
+    "id": 204,
+    "sku": "SKU-00204",
+    "name": "Astra Sport H7Q 204",
+    "brand": "Astra",
+    "category": "Sports",
+    "price": 243.51,
+    "stock": 288,
+    "description": "Astra Sport model H7Q. High quality, reliable, and tested. Suitable for sports use."
+  },
+  {
+    "id": 205,
+    "sku": "SKU-00205",
+    "name": "Velox Sport UIV 205",
+    "brand": "Velox",
+    "category": "Sports",
+    "price": 907.17,
+    "stock": 188,
+    "description": "Velox Sport model UIV. High quality, reliable, and tested. Suitable for sports use."
+  },
+  {
+    "id": 206,
+    "sku": "SKU-00206",
+    "name": "Cresta Book TRT 206",
+    "brand": "Cresta",
+    "category": "Books",
+    "price": 639.19,
+    "stock": 347,
+    "description": "Cresta Book model TRT. High quality, reliable, and tested. Suitable for books use."
+  },
+  {
+    "id": 207,
+    "sku": "SKU-00207",
+    "name": "Lumen Beauty 7PW 207",
+    "brand": "Lumen",
+    "category": "Beauty",
+    "price": 800.81,
+    "stock": 273,
+    "description": "Lumen Beauty model 7PW. High quality, reliable, and tested. Suitable for beauty use."
+  },
+  {
+    "id": 208,
+    "sku": "SKU-00208",
+    "name": "Pioneer Beauty OYG 208",
+    "brand": "Pioneer",
+    "category": "Beauty",
+    "price": 213.54,
+    "stock": 82,
+    "description": "Pioneer Beauty model OYG. High quality, reliable, and tested. Suitable for beauty use."
+  },
+  {
+    "id": 209,
+    "sku": "SKU-00209",
+    "name": "Orbit Toy OLH 209",
+    "brand": "Orbit",
+    "category": "Toys",
+    "price": 437.63,
+    "stock": 374,
+    "description": "Orbit Toy model OLH. High quality, reliable, and tested. Suitable for toys use."
+  },
+  {
+    "id": 210,
+    "sku": "SKU-00210",
+    "name": "Kairo Sport 1RZ 210",
+    "brand": "Kairo",
+    "category": "Sports",
+    "price": 658.02,
+    "stock": 454,
+    "description": "Kairo Sport model 1RZ. High quality, reliable, and tested. Suitable for sports use."
+  },
+  {
+    "id": 211,
+    "sku": "SKU-00211",
+    "name": "Orbit Garden 0S8 211",
+    "brand": "Orbit",
+    "category": "Garden",
+    "price": 826.54,
+    "stock": 284,
+    "description": "Orbit Garden model 0S8. High quality, reliable, and tested. Suitable for garden use."
+  },
+  {
+    "id": 212,
+    "sku": "SKU-00212",
+    "name": "Velox Automotive R9H 212",
+    "brand": "Velox",
+    "category": "Automotive",
+    "price": 723.18,
+    "stock": 326,
+    "description": "Velox Automotive model R9H. High quality, reliable, and tested. Suitable for automotive use."
+  },
+  {
+    "id": 213,
+    "sku": "SKU-00213",
+    "name": "Cresta Home 7E8 213",
+    "brand": "Cresta",
+    "category": "Home",
+    "price": 772.61,
+    "stock": 91,
+    "description": "Cresta Home model 7E8. High quality, reliable, and tested. Suitable for home use."
+  },
+  {
+    "id": 214,
+    "sku": "SKU-00214",
+    "name": "Kairo Garden CQ0 214",
+    "brand": "Kairo",
+    "category": "Garden",
+    "price": 306.17,
+    "stock": 367,
+    "description": "Kairo Garden model CQ0. High quality, reliable, and tested. Suitable for garden use."
+  },
+  {
+    "id": 215,
+    "sku": "SKU-00215",
+    "name": "Pioneer Home 9JZ 215",
+    "brand": "Pioneer",
+    "category": "Home",
+    "price": 77.89,
+    "stock": 45,
+    "description": "Pioneer Home model 9JZ. High quality, reliable, and tested. Suitable for home use."
+  },
+  {
+    "id": 216,
+    "sku": "SKU-00216",
+    "name": "Kairo Automotive WHJ 216",
+    "brand": "Kairo",
+    "category": "Automotive",
+    "price": 77.33,
+    "stock": 438,
+    "description": "Kairo Automotive model WHJ. High quality, reliable, and tested. Suitable for automotive use."
+  },
+  {
+    "id": 217,
+    "sku": "SKU-00217",
+    "name": "Echo Book DQ8 217",
+    "brand": "Echo",
+    "category": "Books",
+    "price": 15.51,
+    "stock": 162,
+    "description": "Echo Book model DQ8. High quality, reliable, and tested. Suitable for books use."
+  },
+  {
+    "id": 218,
+    "sku": "SKU-00218",
+    "name": "Orbit Home Y9U 218",
+    "brand": "Orbit",
+    "category": "Home",
+    "price": 511.11,
+    "stock": 279,
+    "description": "Orbit Home model Y9U. High quality, reliable, and tested. Suitable for home use."
+  },
+  {
+    "id": 219,
+    "sku": "SKU-00219",
+    "name": "Astra Garden 52L 219",
+    "brand": "Astra",
+    "category": "Garden",
+    "price": 204.93,
+    "stock": 303,
+    "description": "Astra Garden model 52L. High quality, reliable, and tested. Suitable for garden use."
+  },
+  {
+    "id": 220,
+    "sku": "SKU-00220",
+    "name": "Velox Clothing 9HC 220",
+    "brand": "Velox",
+    "category": "Clothing",
+    "price": 97.35,
+    "stock": 84,
+    "description": "Velox Clothing model 9HC. High quality, reliable, and tested. Suitable for clothing use."
+  },
+  {
+    "id": 221,
+    "sku": "SKU-00221",
+    "name": "Lumen Beauty QGZ 221",
+    "brand": "Lumen",
+    "category": "Beauty",
+    "price": 95.41,
+    "stock": 224,
+    "description": "Lumen Beauty model QGZ. High quality, reliable, and tested. Suitable for beauty use."
+  },
+  {
+    "id": 222,
+    "sku": "SKU-00222",
+    "name": "Echo Clothing U70 222",
+    "brand": "Echo",
+    "category": "Clothing",
+    "price": 140.8,
+    "stock": 461,
+    "description": "Echo Clothing model U70. High quality, reliable, and tested. Suitable for clothing use."
+  },
+  {
+    "id": 223,
+    "sku": "SKU-00223",
+    "name": "Kairo Home XFV 223",
+    "brand": "Kairo",
+    "category": "Home",
+    "price": 666.84,
+    "stock": 375,
+    "description": "Kairo Home model XFV. High quality, reliable, and tested. Suitable for home use."
+  },
+  {
+    "id": 224,
+    "sku": "SKU-00224",
+    "name": "Orbit Home 4NL 224",
+    "brand": "Orbit",
+    "category": "Home",
+    "price": 866.21,
+    "stock": 132,
+    "description": "Orbit Home model 4NL. High quality, reliable, and tested. Suitable for home use."
+  },
+  {
+    "id": 225,
+    "sku": "SKU-00225",
+    "name": "Nova Electronic JJ0 225",
+    "brand": "Nova",
+    "category": "Electronics",
+    "price": 282.8,
+    "stock": 474,
+    "description": "Nova Electronic model JJ0. High quality, reliable, and tested. Suitable for electronics use."
+  },
+  {
+    "id": 226,
+    "sku": "SKU-00226",
+    "name": "Kairo Beauty 0G9 226",
+    "brand": "Kairo",
+    "category": "Beauty",
+    "price": 254.73,
+    "stock": 268,
+    "description": "Kairo Beauty model 0G9. High quality, reliable, and tested. Suitable for beauty use."
+  },
+  {
+    "id": 227,
+    "sku": "SKU-00227",
+    "name": "Zenith Electronic N48 227",
+    "brand": "Zenith",
+    "category": "Electronics",
+    "price": 968.72,
+    "stock": 252,
+    "description": "Zenith Electronic model N48. High quality, reliable, and tested. Suitable for electronics use."
+  },
+  {
+    "id": 228,
+    "sku": "SKU-00228",
+    "name": "Nova Garden YY6 228",
+    "brand": "Nova",
+    "category": "Garden",
+    "price": 496.08,
+    "stock": 124,
+    "description": "Nova Garden model YY6. High quality, reliable, and tested. Suitable for garden use."
+  },
+  {
+    "id": 229,
+    "sku": "SKU-00229",
+    "name": "Nova Automotive 0PU 229",
+    "brand": "Nova",
+    "category": "Automotive",
+    "price": 507.53,
+    "stock": 310,
+    "description": "Nova Automotive model 0PU. High quality, reliable, and tested. Suitable for automotive use."
+  },
+  {
+    "id": 230,
+    "sku": "SKU-00230",
+    "name": "Nova Home OWI 230",
+    "brand": "Nova",
+    "category": "Home",
+    "price": 790.14,
+    "stock": 368,
+    "description": "Nova Home model OWI. High quality, reliable, and tested. Suitable for home use."
+  },
+  {
+    "id": 231,
+    "sku": "SKU-00231",
+    "name": "Orbit Home ZIP 231",
+    "brand": "Orbit",
+    "category": "Home",
+    "price": 502.74,
+    "stock": 229,
+    "description": "Orbit Home model ZIP. High quality, reliable, and tested. Suitable for home use."
+  },
+  {
+    "id": 232,
+    "sku": "SKU-00232",
+    "name": "Orbit Garden FMI 232",
+    "brand": "Orbit",
+    "category": "Garden",
+    "price": 144.99,
+    "stock": 29,
+    "description": "Orbit Garden model FMI. High quality, reliable, and tested. Suitable for garden use."
+  },
+  {
+    "id": 233,
+    "sku": "SKU-00233",
+    "name": "Cresta Book 641 233",
+    "brand": "Cresta",
+    "category": "Books",
+    "price": 407.61,
+    "stock": 449,
+    "description": "Cresta Book model 641. High quality, reliable, and tested. Suitable for books use."
+  },
+  {
+    "id": 234,
+    "sku": "SKU-00234",
+    "name": "Nova Home R84 234",
+    "brand": "Nova",
+    "category": "Home",
+    "price": 77.32,
+    "stock": 290,
+    "description": "Nova Home model R84. High quality, reliable, and tested. Suitable for home use."
+  },
+  {
+    "id": 235,
+    "sku": "SKU-00235",
+    "name": "Cresta Book ZDR 235",
+    "brand": "Cresta",
+    "category": "Books",
+    "price": 741.84,
+    "stock": 386,
+    "description": "Cresta Book model ZDR. High quality, reliable, and tested. Suitable for books use."
+  },
+  {
+    "id": 236,
+    "sku": "SKU-00236",
+    "name": "Cresta Home 8WY 236",
+    "brand": "Cresta",
+    "category": "Home",
+    "price": 291.05,
+    "stock": 367,
+    "description": "Cresta Home model 8WY. High quality, reliable, and tested. Suitable for home use."
+  },
+  {
+    "id": 237,
+    "sku": "SKU-00237",
+    "name": "Cresta Clothing GK2 237",
+    "brand": "Cresta",
+    "category": "Clothing",
+    "price": 412.43,
+    "stock": 87,
+    "description": "Cresta Clothing model GK2. High quality, reliable, and tested. Suitable for clothing use."
+  },
+  {
+    "id": 238,
+    "sku": "SKU-00238",
+    "name": "Pioneer Toy 4O2 238",
+    "brand": "Pioneer",
+    "category": "Toys",
+    "price": 70.37,
+    "stock": 123,
+    "description": "Pioneer Toy model 4O2. High quality, reliable, and tested. Suitable for toys use."
+  },
+  {
+    "id": 239,
+    "sku": "SKU-00239",
+    "name": "Lumen Garden 5U6 239",
+    "brand": "Lumen",
+    "category": "Garden",
+    "price": 839.96,
+    "stock": 60,
+    "description": "Lumen Garden model 5U6. High quality, reliable, and tested. Suitable for garden use."
+  },
+  {
+    "id": 240,
+    "sku": "SKU-00240",
+    "name": "Lumen Garden N0P 240",
+    "brand": "Lumen",
+    "category": "Garden",
+    "price": 375.27,
+    "stock": 294,
+    "description": "Lumen Garden model N0P. High quality, reliable, and tested. Suitable for garden use."
+  },
+  {
+    "id": 241,
+    "sku": "SKU-00241",
+    "name": "Echo Toy M1F 241",
+    "brand": "Echo",
+    "category": "Toys",
+    "price": 837.66,
+    "stock": 243,
+    "description": "Echo Toy model M1F. High quality, reliable, and tested. Suitable for toys use."
+  },
+  {
+    "id": 242,
+    "sku": "SKU-00242",
+    "name": "Velox Toy 8V9 242",
+    "brand": "Velox",
+    "category": "Toys",
+    "price": 404.27,
+    "stock": 56,
+    "description": "Velox Toy model 8V9. High quality, reliable, and tested. Suitable for toys use."
+  },
+  {
+    "id": 243,
+    "sku": "SKU-00243",
+    "name": "Echo Kitchen VES 243",
+    "brand": "Echo",
+    "category": "Kitchen",
+    "price": 987.57,
+    "stock": 309,
+    "description": "Echo Kitchen model VES. High quality, reliable, and tested. Suitable for kitchen use."
+  },
+  {
+    "id": 244,
+    "sku": "SKU-00244",
+    "name": "Zenith Garden PMA 244",
+    "brand": "Zenith",
+    "category": "Garden",
+    "price": 747.43,
+    "stock": 90,
+    "description": "Zenith Garden model PMA. High quality, reliable, and tested. Suitable for garden use."
+  },
+  {
+    "id": 245,
+    "sku": "SKU-00245",
+    "name": "Cresta Garden PVA 245",
+    "brand": "Cresta",
+    "category": "Garden",
+    "price": 523.99,
+    "stock": 214,
+    "description": "Cresta Garden model PVA. High quality, reliable, and tested. Suitable for garden use."
+  },
+  {
+    "id": 246,
+    "sku": "SKU-00246",
+    "name": "Pioneer Clothing 60B 246",
+    "brand": "Pioneer",
+    "category": "Clothing",
+    "price": 141.45,
+    "stock": 99,
+    "description": "Pioneer Clothing model 60B. High quality, reliable, and tested. Suitable for clothing use."
+  },
+  {
+    "id": 247,
+    "sku": "SKU-00247",
+    "name": "Pioneer Garden BXG 247",
+    "brand": "Pioneer",
+    "category": "Garden",
+    "price": 984.48,
+    "stock": 73,
+    "description": "Pioneer Garden model BXG. High quality, reliable, and tested. Suitable for garden use."
+  },
+  {
+    "id": 248,
+    "sku": "SKU-00248",
+    "name": "Zenith Garden 51R 248",
+    "brand": "Zenith",
+    "category": "Garden",
+    "price": 341.68,
+    "stock": 346,
+    "description": "Zenith Garden model 51R. High quality, reliable, and tested. Suitable for garden use."
+  },
+  {
+    "id": 249,
+    "sku": "SKU-00249",
+    "name": "Kairo Home F4W 249",
+    "brand": "Kairo",
+    "category": "Home",
+    "price": 78.26,
+    "stock": 359,
+    "description": "Kairo Home model F4W. High quality, reliable, and tested. Suitable for home use."
+  },
+  {
+    "id": 250,
+    "sku": "SKU-00250",
+    "name": "Pioneer Home 5PV 250",
+    "brand": "Pioneer",
+    "category": "Home",
+    "price": 970.59,
+    "stock": 147,
+    "description": "Pioneer Home model 5PV. High quality, reliable, and tested. Suitable for home use."
+  },
+  {
+    "id": 251,
+    "sku": "SKU-00251",
+    "name": "Kairo Automotive SI2 251",
+    "brand": "Kairo",
+    "category": "Automotive",
+    "price": 37.49,
+    "stock": 395,
+    "description": "Kairo Automotive model SI2. High quality, reliable, and tested. Suitable for automotive use."
+  },
+  {
+    "id": 252,
+    "sku": "SKU-00252",
+    "name": "Echo Electronic DO7 252",
+    "brand": "Echo",
+    "category": "Electronics",
+    "price": 450.17,
+    "stock": 115,
+    "description": "Echo Electronic model DO7. High quality, reliable, and tested. Suitable for electronics use."
+  },
+  {
+    "id": 253,
+    "sku": "SKU-00253",
+    "name": "Cresta Automotive 0AD 253",
+    "brand": "Cresta",
+    "category": "Automotive",
+    "price": 350.04,
+    "stock": 484,
+    "description": "Cresta Automotive model 0AD. High quality, reliable, and tested. Suitable for automotive use."
+  },
+  {
+    "id": 254,
+    "sku": "SKU-00254",
+    "name": "Orbit Automotive CRA 254",
+    "brand": "Orbit",
+    "category": "Automotive",
+    "price": 469.27,
+    "stock": 160,
+    "description": "Orbit Automotive model CRA. High quality, reliable, and tested. Suitable for automotive use."
+  },
+  {
+    "id": 255,
+    "sku": "SKU-00255",
+    "name": "Nova Automotive LB9 255",
+    "brand": "Nova",
+    "category": "Automotive",
+    "price": 975.74,
+    "stock": 258,
+    "description": "Nova Automotive model LB9. High quality, reliable, and tested. Suitable for automotive use."
+  },
+  {
+    "id": 256,
+    "sku": "SKU-00256",
+    "name": "Astra Automotive HQI 256",
+    "brand": "Astra",
+    "category": "Automotive",
+    "price": 260.05,
+    "stock": 267,
+    "description": "Astra Automotive model HQI. High quality, reliable, and tested. Suitable for automotive use."
+  },
+  {
+    "id": 257,
+    "sku": "SKU-00257",
+    "name": "Astra Clothing 0KE 257",
+    "brand": "Astra",
+    "category": "Clothing",
+    "price": 466.84,
+    "stock": 260,
+    "description": "Astra Clothing model 0KE. High quality, reliable, and tested. Suitable for clothing use."
+  },
+  {
+    "id": 258,
+    "sku": "SKU-00258",
+    "name": "Echo Electronic C1C 258",
+    "brand": "Echo",
+    "category": "Electronics",
+    "price": 760.73,
+    "stock": 450,
+    "description": "Echo Electronic model C1C. High quality, reliable, and tested. Suitable for electronics use."
+  },
+  {
+    "id": 259,
+    "sku": "SKU-00259",
+    "name": "Pioneer Clothing MJN 259",
+    "brand": "Pioneer",
+    "category": "Clothing",
+    "price": 284.32,
+    "stock": 80,
+    "description": "Pioneer Clothing model MJN. High quality, reliable, and tested. Suitable for clothing use."
+  },
+  {
+    "id": 260,
+    "sku": "SKU-00260",
+    "name": "Nova Book 942 260",
+    "brand": "Nova",
+    "category": "Books",
+    "price": 619.35,
+    "stock": 432,
+    "description": "Nova Book model 942. High quality, reliable, and tested. Suitable for books use."
+  },
+  {
+    "id": 261,
+    "sku": "SKU-00261",
+    "name": "Kairo Beauty BKH 261",
+    "brand": "Kairo",
+    "category": "Beauty",
+    "price": 30.79,
+    "stock": 139,
+    "description": "Kairo Beauty model BKH. High quality, reliable, and tested. Suitable for beauty use."
+  },
+  {
+    "id": 262,
+    "sku": "SKU-00262",
+    "name": "Kairo Automotive L3Y 262",
+    "brand": "Kairo",
+    "category": "Automotive",
+    "price": 895.23,
+    "stock": 265,
+    "description": "Kairo Automotive model L3Y. High quality, reliable, and tested. Suitable for automotive use."
+  },
+  {
+    "id": 263,
+    "sku": "SKU-00263",
+    "name": "Kairo Toy 8IL 263",
+    "brand": "Kairo",
+    "category": "Toys",
+    "price": 196.74,
+    "stock": 106,
+    "description": "Kairo Toy model 8IL. High quality, reliable, and tested. Suitable for toys use."
+  },
+  {
+    "id": 264,
+    "sku": "SKU-00264",
+    "name": "Pioneer Clothing LTY 264",
+    "brand": "Pioneer",
+    "category": "Clothing",
+    "price": 855.42,
+    "stock": 439,
+    "description": "Pioneer Clothing model LTY. High quality, reliable, and tested. Suitable for clothing use."
+  },
+  {
+    "id": 265,
+    "sku": "SKU-00265",
+    "name": "Velox Electronic 9FZ 265",
+    "brand": "Velox",
+    "category": "Electronics",
+    "price": 820.62,
+    "stock": 11,
+    "description": "Velox Electronic model 9FZ. High quality, reliable, and tested. Suitable for electronics use."
+  },
+  {
+    "id": 266,
+    "sku": "SKU-00266",
+    "name": "Pioneer Sport 69E 266",
+    "brand": "Pioneer",
+    "category": "Sports",
+    "price": 312.45,
+    "stock": 23,
+    "description": "Pioneer Sport model 69E. High quality, reliable, and tested. Suitable for sports use."
+  },
+  {
+    "id": 267,
+    "sku": "SKU-00267",
+    "name": "Kairo Electronic LO6 267",
+    "brand": "Kairo",
+    "category": "Electronics",
+    "price": 708.51,
+    "stock": 21,
+    "description": "Kairo Electronic model LO6. High quality, reliable, and tested. Suitable for electronics use."
+  },
+  {
+    "id": 268,
+    "sku": "SKU-00268",
+    "name": "Echo Sport BH1 268",
+    "brand": "Echo",
+    "category": "Sports",
+    "price": 344.3,
+    "stock": 268,
+    "description": "Echo Sport model BH1. High quality, reliable, and tested. Suitable for sports use."
+  },
+  {
+    "id": 269,
+    "sku": "SKU-00269",
+    "name": "Orbit Home 7DU 269",
+    "brand": "Orbit",
+    "category": "Home",
+    "price": 855.37,
+    "stock": 82,
+    "description": "Orbit Home model 7DU. High quality, reliable, and tested. Suitable for home use."
+  },
+  {
+    "id": 270,
+    "sku": "SKU-00270",
+    "name": "Astra Toy K7T 270",
+    "brand": "Astra",
+    "category": "Toys",
+    "price": 433.1,
+    "stock": 47,
+    "description": "Astra Toy model K7T. High quality, reliable, and tested. Suitable for toys use."
+  },
+  {
+    "id": 271,
+    "sku": "SKU-00271",
+    "name": "Zenith Automotive 0TO 271",
+    "brand": "Zenith",
+    "category": "Automotive",
+    "price": 41.14,
+    "stock": 284,
+    "description": "Zenith Automotive model 0TO. High quality, reliable, and tested. Suitable for automotive use."
+  },
+  {
+    "id": 272,
+    "sku": "SKU-00272",
+    "name": "Velox Toy T0M 272",
+    "brand": "Velox",
+    "category": "Toys",
+    "price": 658.86,
+    "stock": 398,
+    "description": "Velox Toy model T0M. High quality, reliable, and tested. Suitable for toys use."
+  },
+  {
+    "id": 273,
+    "sku": "SKU-00273",
+    "name": "Orbit Kitchen 2BW 273",
+    "brand": "Orbit",
+    "category": "Kitchen",
+    "price": 227.27,
+    "stock": 66,
+    "description": "Orbit Kitchen model 2BW. High quality, reliable, and tested. Suitable for kitchen use."
+  },
+  {
+    "id": 274,
+    "sku": "SKU-00274",
+    "name": "Orbit Garden NSM 274",
+    "brand": "Orbit",
+    "category": "Garden",
+    "price": 926.27,
+    "stock": 293,
+    "description": "Orbit Garden model NSM. High quality, reliable, and tested. Suitable for garden use."
+  },
+  {
+    "id": 275,
+    "sku": "SKU-00275",
+    "name": "Zenith Toy IMC 275",
+    "brand": "Zenith",
+    "category": "Toys",
+    "price": 203.53,
+    "stock": 268,
+    "description": "Zenith Toy model IMC. High quality, reliable, and tested. Suitable for toys use."
+  },
+  {
+    "id": 276,
+    "sku": "SKU-00276",
+    "name": "Orbit Beauty 5AN 276",
+    "brand": "Orbit",
+    "category": "Beauty",
+    "price": 195.45,
+    "stock": 17,
+    "description": "Orbit Beauty model 5AN. High quality, reliable, and tested. Suitable for beauty use."
+  },
+  {
+    "id": 277,
+    "sku": "SKU-00277",
+    "name": "Kairo Electronic AC5 277",
+    "brand": "Kairo",
+    "category": "Electronics",
+    "price": 832.13,
+    "stock": 133,
+    "description": "Kairo Electronic model AC5. High quality, reliable, and tested. Suitable for electronics use."
+  },
+  {
+    "id": 278,
+    "sku": "SKU-00278",
+    "name": "Orbit Automotive ZYC 278",
+    "brand": "Orbit",
+    "category": "Automotive",
+    "price": 489.69,
+    "stock": 448,
+    "description": "Orbit Automotive model ZYC. High quality, reliable, and tested. Suitable for automotive use."
+  },
+  {
+    "id": 279,
+    "sku": "SKU-00279",
+    "name": "Pioneer Toy TMY 279",
+    "brand": "Pioneer",
+    "category": "Toys",
+    "price": 689.8,
+    "stock": 199,
+    "description": "Pioneer Toy model TMY. High quality, reliable, and tested. Suitable for toys use."
+  },
+  {
+    "id": 280,
+    "sku": "SKU-00280",
+    "name": "Kairo Electronic QW1 280",
+    "brand": "Kairo",
+    "category": "Electronics",
+    "price": 655.17,
+    "stock": 235,
+    "description": "Kairo Electronic model QW1. High quality, reliable, and tested. Suitable for electronics use."
+  },
+  {
+    "id": 281,
+    "sku": "SKU-00281",
+    "name": "Kairo Garden Z0Q 281",
+    "brand": "Kairo",
+    "category": "Garden",
+    "price": 171.14,
+    "stock": 158,
+    "description": "Kairo Garden model Z0Q. High quality, reliable, and tested. Suitable for garden use."
+  },
+  {
+    "id": 282,
+    "sku": "SKU-00282",
+    "name": "Velox Kitchen WT8 282",
+    "brand": "Velox",
+    "category": "Kitchen",
+    "price": 760.47,
+    "stock": 443,
+    "description": "Velox Kitchen model WT8. High quality, reliable, and tested. Suitable for kitchen use."
+  },
+  {
+    "id": 283,
+    "sku": "SKU-00283",
+    "name": "Lumen Garden WZ3 283",
+    "brand": "Lumen",
+    "category": "Garden",
+    "price": 827.55,
+    "stock": 439,
+    "description": "Lumen Garden model WZ3. High quality, reliable, and tested. Suitable for garden use."
+  },
+  {
+    "id": 284,
+    "sku": "SKU-00284",
+    "name": "Echo Kitchen KKO 284",
+    "brand": "Echo",
+    "category": "Kitchen",
+    "price": 504.09,
+    "stock": 302,
+    "description": "Echo Kitchen model KKO. High quality, reliable, and tested. Suitable for kitchen use."
+  },
+  {
+    "id": 285,
+    "sku": "SKU-00285",
+    "name": "Orbit Sport BHH 285",
+    "brand": "Orbit",
+    "category": "Sports",
+    "price": 543.86,
+    "stock": 220,
+    "description": "Orbit Sport model BHH. High quality, reliable, and tested. Suitable for sports use."
+  },
+  {
+    "id": 286,
+    "sku": "SKU-00286",
+    "name": "Kairo Kitchen KTM 286",
+    "brand": "Kairo",
+    "category": "Kitchen",
+    "price": 401.14,
+    "stock": 373,
+    "description": "Kairo Kitchen model KTM. High quality, reliable, and tested. Suitable for kitchen use."
+  },
+  {
+    "id": 287,
+    "sku": "SKU-00287",
+    "name": "Nova Sport JNI 287",
+    "brand": "Nova",
+    "category": "Sports",
+    "price": 956.96,
+    "stock": 296,
+    "description": "Nova Sport model JNI. High quality, reliable, and tested. Suitable for sports use."
+  },
+  {
+    "id": 288,
+    "sku": "SKU-00288",
+    "name": "Echo Beauty MAG 288",
+    "brand": "Echo",
+    "category": "Beauty",
+    "price": 780,
+    "stock": 328,
+    "description": "Echo Beauty model MAG. High quality, reliable, and tested. Suitable for beauty use."
+  },
+  {
+    "id": 289,
+    "sku": "SKU-00289",
+    "name": "Velox Sport VLL 289",
+    "brand": "Velox",
+    "category": "Sports",
+    "price": 613.52,
+    "stock": 171,
+    "description": "Velox Sport model VLL. High quality, reliable, and tested. Suitable for sports use."
+  },
+  {
+    "id": 290,
+    "sku": "SKU-00290",
+    "name": "Cresta Kitchen 3D0 290",
+    "brand": "Cresta",
+    "category": "Kitchen",
+    "price": 929.86,
+    "stock": 90,
+    "description": "Cresta Kitchen model 3D0. High quality, reliable, and tested. Suitable for kitchen use."
+  },
+  {
+    "id": 291,
+    "sku": "SKU-00291",
+    "name": "Nova Kitchen FMR 291",
+    "brand": "Nova",
+    "category": "Kitchen",
+    "price": 251.48,
+    "stock": 461,
+    "description": "Nova Kitchen model FMR. High quality, reliable, and tested. Suitable for kitchen use."
+  },
+  {
+    "id": 292,
+    "sku": "SKU-00292",
+    "name": "Kairo Automotive PFK 292",
+    "brand": "Kairo",
+    "category": "Automotive",
+    "price": 861.62,
+    "stock": 75,
+    "description": "Kairo Automotive model PFK. High quality, reliable, and tested. Suitable for automotive use."
+  },
+  {
+    "id": 293,
+    "sku": "SKU-00293",
+    "name": "Pioneer Sport 8QN 293",
+    "brand": "Pioneer",
+    "category": "Sports",
+    "price": 735,
+    "stock": 164,
+    "description": "Pioneer Sport model 8QN. High quality, reliable, and tested. Suitable for sports use."
+  },
+  {
+    "id": 294,
+    "sku": "SKU-00294",
+    "name": "Pioneer Toy J46 294",
+    "brand": "Pioneer",
+    "category": "Toys",
+    "price": 342.86,
+    "stock": 227,
+    "description": "Pioneer Toy model J46. High quality, reliable, and tested. Suitable for toys use."
+  },
+  {
+    "id": 295,
+    "sku": "SKU-00295",
+    "name": "Nova Home SOC 295",
+    "brand": "Nova",
+    "category": "Home",
+    "price": 334.53,
+    "stock": 469,
+    "description": "Nova Home model SOC. High quality, reliable, and tested. Suitable for home use."
+  },
+  {
+    "id": 296,
+    "sku": "SKU-00296",
+    "name": "Echo Beauty 2H7 296",
+    "brand": "Echo",
+    "category": "Beauty",
+    "price": 946.5,
+    "stock": 130,
+    "description": "Echo Beauty model 2H7. High quality, reliable, and tested. Suitable for beauty use."
+  },
+  {
+    "id": 297,
+    "sku": "SKU-00297",
+    "name": "Orbit Clothing WYK 297",
+    "brand": "Orbit",
+    "category": "Clothing",
+    "price": 305.93,
+    "stock": 230,
+    "description": "Orbit Clothing model WYK. High quality, reliable, and tested. Suitable for clothing use."
+  },
+  {
+    "id": 298,
+    "sku": "SKU-00298",
+    "name": "Nova Beauty 6FS 298",
+    "brand": "Nova",
+    "category": "Beauty",
+    "price": 801.74,
+    "stock": 31,
+    "description": "Nova Beauty model 6FS. High quality, reliable, and tested. Suitable for beauty use."
+  },
+  {
+    "id": 299,
+    "sku": "SKU-00299",
+    "name": "Astra Automotive DJ5 299",
+    "brand": "Astra",
+    "category": "Automotive",
+    "price": 495.12,
+    "stock": 124,
+    "description": "Astra Automotive model DJ5. High quality, reliable, and tested. Suitable for automotive use."
+  },
+  {
+    "id": 300,
+    "sku": "SKU-00300",
+    "name": "Nova Automotive I9M 300",
+    "brand": "Nova",
+    "category": "Automotive",
+    "price": 292.7,
+    "stock": 106,
+    "description": "Nova Automotive model I9M. High quality, reliable, and tested. Suitable for automotive use."
+  },
+  {
+    "id": 301,
+    "sku": "SKU-00301",
+    "name": "Nova Automotive X0S 301",
+    "brand": "Nova",
+    "category": "Automotive",
+    "price": 368.36,
+    "stock": 5,
+    "description": "Nova Automotive model X0S. High quality, reliable, and tested. Suitable for automotive use."
+  },
+  {
+    "id": 302,
+    "sku": "SKU-00302",
+    "name": "Lumen Book TXE 302",
+    "brand": "Lumen",
+    "category": "Books",
+    "price": 445.01,
+    "stock": 48,
+    "description": "Lumen Book model TXE. High quality, reliable, and tested. Suitable for books use."
+  },
+  {
+    "id": 303,
+    "sku": "SKU-00303",
+    "name": "Cresta Electronic PDF 303",
+    "brand": "Cresta",
+    "category": "Electronics",
+    "price": 921.76,
+    "stock": 275,
+    "description": "Cresta Electronic model PDF. High quality, reliable, and tested. Suitable for electronics use."
+  },
+  {
+    "id": 304,
+    "sku": "SKU-00304",
+    "name": "Pioneer Book W2N 304",
+    "brand": "Pioneer",
+    "category": "Books",
+    "price": 402.3,
+    "stock": 33,
+    "description": "Pioneer Book model W2N. High quality, reliable, and tested. Suitable for books use."
+  },
+  {
+    "id": 305,
+    "sku": "SKU-00305",
+    "name": "Echo Home N57 305",
+    "brand": "Echo",
+    "category": "Home",
+    "price": 868.41,
+    "stock": 491,
+    "description": "Echo Home model N57. High quality, reliable, and tested. Suitable for home use."
+  },
+  {
+    "id": 306,
+    "sku": "SKU-00306",
+    "name": "Kairo Kitchen 2F4 306",
+    "brand": "Kairo",
+    "category": "Kitchen",
+    "price": 475.15,
+    "stock": 422,
+    "description": "Kairo Kitchen model 2F4. High quality, reliable, and tested. Suitable for kitchen use."
+  },
+  {
+    "id": 307,
+    "sku": "SKU-00307",
+    "name": "Pioneer Home 212 307",
+    "brand": "Pioneer",
+    "category": "Home",
+    "price": 372.82,
+    "stock": 395,
+    "description": "Pioneer Home model 212. High quality, reliable, and tested. Suitable for home use."
+  },
+  {
+    "id": 308,
+    "sku": "SKU-00308",
+    "name": "Zenith Book Z8W 308",
+    "brand": "Zenith",
+    "category": "Books",
+    "price": 352.47,
+    "stock": 248,
+    "description": "Zenith Book model Z8W. High quality, reliable, and tested. Suitable for books use."
+  },
+  {
+    "id": 309,
+    "sku": "SKU-00309",
+    "name": "Velox Automotive 010 309",
+    "brand": "Velox",
+    "category": "Automotive",
+    "price": 724.91,
+    "stock": 343,
+    "description": "Velox Automotive model 010. High quality, reliable, and tested. Suitable for automotive use."
+  },
+  {
+    "id": 310,
+    "sku": "SKU-00310",
+    "name": "Velox Home J8U 310",
+    "brand": "Velox",
+    "category": "Home",
+    "price": 944.2,
+    "stock": 484,
+    "description": "Velox Home model J8U. High quality, reliable, and tested. Suitable for home use."
+  },
+  {
+    "id": 311,
+    "sku": "SKU-00311",
+    "name": "Nova Automotive VXR 311",
+    "brand": "Nova",
+    "category": "Automotive",
+    "price": 645.75,
+    "stock": 159,
+    "description": "Nova Automotive model VXR. High quality, reliable, and tested. Suitable for automotive use."
+  },
+  {
+    "id": 312,
+    "sku": "SKU-00312",
+    "name": "Astra Automotive BL5 312",
+    "brand": "Astra",
+    "category": "Automotive",
+    "price": 973.62,
+    "stock": 135,
+    "description": "Astra Automotive model BL5. High quality, reliable, and tested. Suitable for automotive use."
+  },
+  {
+    "id": 313,
+    "sku": "SKU-00313",
+    "name": "Nova Electronic 7NM 313",
+    "brand": "Nova",
+    "category": "Electronics",
+    "price": 702.74,
+    "stock": 127,
+    "description": "Nova Electronic model 7NM. High quality, reliable, and tested. Suitable for electronics use."
+  },
+  {
+    "id": 314,
+    "sku": "SKU-00314",
+    "name": "Cresta Beauty MFY 314",
+    "brand": "Cresta",
+    "category": "Beauty",
+    "price": 508.91,
+    "stock": 432,
+    "description": "Cresta Beauty model MFY. High quality, reliable, and tested. Suitable for beauty use."
+  },
+  {
+    "id": 315,
+    "sku": "SKU-00315",
+    "name": "Cresta Sport DXR 315",
+    "brand": "Cresta",
+    "category": "Sports",
+    "price": 186.58,
+    "stock": 359,
+    "description": "Cresta Sport model DXR. High quality, reliable, and tested. Suitable for sports use."
+  },
+  {
+    "id": 316,
+    "sku": "SKU-00316",
+    "name": "Cresta Clothing 2K3 316",
+    "brand": "Cresta",
+    "category": "Clothing",
+    "price": 651.26,
+    "stock": 37,
+    "description": "Cresta Clothing model 2K3. High quality, reliable, and tested. Suitable for clothing use."
+  },
+  {
+    "id": 317,
+    "sku": "SKU-00317",
+    "name": "Astra Kitchen PTZ 317",
+    "brand": "Astra",
+    "category": "Kitchen",
+    "price": 967.15,
+    "stock": 256,
+    "description": "Astra Kitchen model PTZ. High quality, reliable, and tested. Suitable for kitchen use."
+  },
+  {
+    "id": 318,
+    "sku": "SKU-00318",
+    "name": "Astra Toy XV8 318",
+    "brand": "Astra",
+    "category": "Toys",
+    "price": 725.59,
+    "stock": 25,
+    "description": "Astra Toy model XV8. High quality, reliable, and tested. Suitable for toys use."
+  },
+  {
+    "id": 319,
+    "sku": "SKU-00319",
+    "name": "Nova Beauty CGU 319",
+    "brand": "Nova",
+    "category": "Beauty",
+    "price": 229.86,
+    "stock": 376,
+    "description": "Nova Beauty model CGU. High quality, reliable, and tested. Suitable for beauty use."
+  },
+  {
+    "id": 320,
+    "sku": "SKU-00320",
+    "name": "Pioneer Home 610 320",
+    "brand": "Pioneer",
+    "category": "Home",
+    "price": 996.56,
+    "stock": 47,
+    "description": "Pioneer Home model 610. High quality, reliable, and tested. Suitable for home use."
+  },
+  {
+    "id": 321,
+    "sku": "SKU-00321",
+    "name": "Nova Garden VUH 321",
+    "brand": "Nova",
+    "category": "Garden",
+    "price": 553.87,
+    "stock": 213,
+    "description": "Nova Garden model VUH. High quality, reliable, and tested. Suitable for garden use."
+  },
+  {
+    "id": 322,
+    "sku": "SKU-00322",
+    "name": "Lumen Kitchen ED5 322",
+    "brand": "Lumen",
+    "category": "Kitchen",
+    "price": 182.92,
+    "stock": 246,
+    "description": "Lumen Kitchen model ED5. High quality, reliable, and tested. Suitable for kitchen use."
+  },
+  {
+    "id": 323,
+    "sku": "SKU-00323",
+    "name": "Velox Home 3Q3 323",
+    "brand": "Velox",
+    "category": "Home",
+    "price": 438.47,
+    "stock": 445,
+    "description": "Velox Home model 3Q3. High quality, reliable, and tested. Suitable for home use."
+  },
+  {
+    "id": 324,
+    "sku": "SKU-00324",
+    "name": "Velox Book WVS 324",
+    "brand": "Velox",
+    "category": "Books",
+    "price": 214.91,
+    "stock": 259,
+    "description": "Velox Book model WVS. High quality, reliable, and tested. Suitable for books use."
+  },
+  {
+    "id": 325,
+    "sku": "SKU-00325",
+    "name": "Zenith Kitchen 3PF 325",
+    "brand": "Zenith",
+    "category": "Kitchen",
+    "price": 617.6,
+    "stock": 182,
+    "description": "Zenith Kitchen model 3PF. High quality, reliable, and tested. Suitable for kitchen use."
+  },
+  {
+    "id": 326,
+    "sku": "SKU-00326",
+    "name": "Velox Book DAK 326",
+    "brand": "Velox",
+    "category": "Books",
+    "price": 623.13,
+    "stock": 331,
+    "description": "Velox Book model DAK. High quality, reliable, and tested. Suitable for books use."
+  },
+  {
+    "id": 327,
+    "sku": "SKU-00327",
+    "name": "Orbit Book 643 327",
+    "brand": "Orbit",
+    "category": "Books",
+    "price": 8.53,
+    "stock": 458,
+    "description": "Orbit Book model 643. High quality, reliable, and tested. Suitable for books use."
+  },
+  {
+    "id": 328,
+    "sku": "SKU-00328",
+    "name": "Kairo Home KDA 328",
+    "brand": "Kairo",
+    "category": "Home",
+    "price": 50.44,
+    "stock": 241,
+    "description": "Kairo Home model KDA. High quality, reliable, and tested. Suitable for home use."
+  },
+  {
+    "id": 329,
+    "sku": "SKU-00329",
+    "name": "Lumen Toy GSF 329",
+    "brand": "Lumen",
+    "category": "Toys",
+    "price": 994.25,
+    "stock": 354,
+    "description": "Lumen Toy model GSF. High quality, reliable, and tested. Suitable for toys use."
+  },
+  {
+    "id": 330,
+    "sku": "SKU-00330",
+    "name": "Nova Sport I5R 330",
+    "brand": "Nova",
+    "category": "Sports",
+    "price": 484.42,
+    "stock": 280,
+    "description": "Nova Sport model I5R. High quality, reliable, and tested. Suitable for sports use."
+  },
+  {
+    "id": 331,
+    "sku": "SKU-00331",
+    "name": "Astra Electronic MU4 331",
+    "brand": "Astra",
+    "category": "Electronics",
+    "price": 49.88,
+    "stock": 310,
+    "description": "Astra Electronic model MU4. High quality, reliable, and tested. Suitable for electronics use."
+  },
+  {
+    "id": 332,
+    "sku": "SKU-00332",
+    "name": "Lumen Sport WCX 332",
+    "brand": "Lumen",
+    "category": "Sports",
+    "price": 982.22,
+    "stock": 295,
+    "description": "Lumen Sport model WCX. High quality, reliable, and tested. Suitable for sports use."
+  },
+  {
+    "id": 333,
+    "sku": "SKU-00333",
+    "name": "Astra Clothing O0J 333",
+    "brand": "Astra",
+    "category": "Clothing",
+    "price": 18.16,
+    "stock": 453,
+    "description": "Astra Clothing model O0J. High quality, reliable, and tested. Suitable for clothing use."
+  },
+  {
+    "id": 334,
+    "sku": "SKU-00334",
+    "name": "Astra Toy VZE 334",
+    "brand": "Astra",
+    "category": "Toys",
+    "price": 990.05,
+    "stock": 221,
+    "description": "Astra Toy model VZE. High quality, reliable, and tested. Suitable for toys use."
+  },
+  {
+    "id": 335,
+    "sku": "SKU-00335",
+    "name": "Velox Kitchen 3I5 335",
+    "brand": "Velox",
+    "category": "Kitchen",
+    "price": 933.41,
+    "stock": 475,
+    "description": "Velox Kitchen model 3I5. High quality, reliable, and tested. Suitable for kitchen use."
+  },
+  {
+    "id": 336,
+    "sku": "SKU-00336",
+    "name": "Velox Electronic L8W 336",
+    "brand": "Velox",
+    "category": "Electronics",
+    "price": 390.16,
+    "stock": 306,
+    "description": "Velox Electronic model L8W. High quality, reliable, and tested. Suitable for electronics use."
+  },
+  {
+    "id": 337,
+    "sku": "SKU-00337",
+    "name": "Astra Beauty 419 337",
+    "brand": "Astra",
+    "category": "Beauty",
+    "price": 464.07,
+    "stock": 444,
+    "description": "Astra Beauty model 419. High quality, reliable, and tested. Suitable for beauty use."
+  },
+  {
+    "id": 338,
+    "sku": "SKU-00338",
+    "name": "Echo Toy DB8 338",
+    "brand": "Echo",
+    "category": "Toys",
+    "price": 503.71,
+    "stock": 291,
+    "description": "Echo Toy model DB8. High quality, reliable, and tested. Suitable for toys use."
+  },
+  {
+    "id": 339,
+    "sku": "SKU-00339",
+    "name": "Echo Book Y18 339",
+    "brand": "Echo",
+    "category": "Books",
+    "price": 494.46,
+    "stock": 369,
+    "description": "Echo Book model Y18. High quality, reliable, and tested. Suitable for books use."
+  },
+  {
+    "id": 340,
+    "sku": "SKU-00340",
+    "name": "Pioneer Toy Y20 340",
+    "brand": "Pioneer",
+    "category": "Toys",
+    "price": 751.48,
+    "stock": 188,
+    "description": "Pioneer Toy model Y20. High quality, reliable, and tested. Suitable for toys use."
+  },
+  {
+    "id": 341,
+    "sku": "SKU-00341",
+    "name": "Nova Kitchen N4X 341",
+    "brand": "Nova",
+    "category": "Kitchen",
+    "price": 326.2,
+    "stock": 364,
+    "description": "Nova Kitchen model N4X. High quality, reliable, and tested. Suitable for kitchen use."
+  },
+  {
+    "id": 342,
+    "sku": "SKU-00342",
+    "name": "Astra Toy U32 342",
+    "brand": "Astra",
+    "category": "Toys",
+    "price": 380.65,
+    "stock": 168,
+    "description": "Astra Toy model U32. High quality, reliable, and tested. Suitable for toys use."
+  },
+  {
+    "id": 343,
+    "sku": "SKU-00343",
+    "name": "Echo Automotive GZC 343",
+    "brand": "Echo",
+    "category": "Automotive",
+    "price": 357.1,
+    "stock": 121,
+    "description": "Echo Automotive model GZC. High quality, reliable, and tested. Suitable for automotive use."
+  },
+  {
+    "id": 344,
+    "sku": "SKU-00344",
+    "name": "Lumen Beauty 1MJ 344",
+    "brand": "Lumen",
+    "category": "Beauty",
+    "price": 399.53,
+    "stock": 208,
+    "description": "Lumen Beauty model 1MJ. High quality, reliable, and tested. Suitable for beauty use."
+  },
+  {
+    "id": 345,
+    "sku": "SKU-00345",
+    "name": "Orbit Garden UDK 345",
+    "brand": "Orbit",
+    "category": "Garden",
+    "price": 567.15,
+    "stock": 105,
+    "description": "Orbit Garden model UDK. High quality, reliable, and tested. Suitable for garden use."
+  },
+  {
+    "id": 346,
+    "sku": "SKU-00346",
+    "name": "Cresta Clothing 40L 346",
+    "brand": "Cresta",
+    "category": "Clothing",
+    "price": 11.71,
+    "stock": 315,
+    "description": "Cresta Clothing model 40L. High quality, reliable, and tested. Suitable for clothing use."
+  },
+  {
+    "id": 347,
+    "sku": "SKU-00347",
+    "name": "Cresta Electronic T5Y 347",
+    "brand": "Cresta",
+    "category": "Electronics",
+    "price": 315.41,
+    "stock": 126,
+    "description": "Cresta Electronic model T5Y. High quality, reliable, and tested. Suitable for electronics use."
+  },
+  {
+    "id": 348,
+    "sku": "SKU-00348",
+    "name": "Pioneer Clothing D97 348",
+    "brand": "Pioneer",
+    "category": "Clothing",
+    "price": 144.78,
+    "stock": 223,
+    "description": "Pioneer Clothing model D97. High quality, reliable, and tested. Suitable for clothing use."
+  },
+  {
+    "id": 349,
+    "sku": "SKU-00349",
+    "name": "Zenith Kitchen COT 349",
+    "brand": "Zenith",
+    "category": "Kitchen",
+    "price": 316.01,
+    "stock": 56,
+    "description": "Zenith Kitchen model COT. High quality, reliable, and tested. Suitable for kitchen use."
+  },
+  {
+    "id": 350,
+    "sku": "SKU-00350",
+    "name": "Cresta Toy UZV 350",
+    "brand": "Cresta",
+    "category": "Toys",
+    "price": 598.77,
+    "stock": 34,
+    "description": "Cresta Toy model UZV. High quality, reliable, and tested. Suitable for toys use."
+  },
+  {
+    "id": 351,
+    "sku": "SKU-00351",
+    "name": "Kairo Book MWJ 351",
+    "brand": "Kairo",
+    "category": "Books",
+    "price": 610.86,
+    "stock": 254,
+    "description": "Kairo Book model MWJ. High quality, reliable, and tested. Suitable for books use."
+  },
+  {
+    "id": 352,
+    "sku": "SKU-00352",
+    "name": "Echo Toy 0YC 352",
+    "brand": "Echo",
+    "category": "Toys",
+    "price": 919.88,
+    "stock": 23,
+    "description": "Echo Toy model 0YC. High quality, reliable, and tested. Suitable for toys use."
+  },
+  {
+    "id": 353,
+    "sku": "SKU-00353",
+    "name": "Orbit Electronic MZL 353",
+    "brand": "Orbit",
+    "category": "Electronics",
+    "price": 112.4,
+    "stock": 381,
+    "description": "Orbit Electronic model MZL. High quality, reliable, and tested. Suitable for electronics use."
+  },
+  {
+    "id": 354,
+    "sku": "SKU-00354",
+    "name": "Cresta Sport 5I2 354",
+    "brand": "Cresta",
+    "category": "Sports",
+    "price": 712.36,
+    "stock": 285,
+    "description": "Cresta Sport model 5I2. High quality, reliable, and tested. Suitable for sports use."
+  },
+  {
+    "id": 355,
+    "sku": "SKU-00355",
+    "name": "Kairo Kitchen LP8 355",
+    "brand": "Kairo",
+    "category": "Kitchen",
+    "price": 630.98,
+    "stock": 62,
+    "description": "Kairo Kitchen model LP8. High quality, reliable, and tested. Suitable for kitchen use."
+  },
+  {
+    "id": 356,
+    "sku": "SKU-00356",
+    "name": "Zenith Home 2FI 356",
+    "brand": "Zenith",
+    "category": "Home",
+    "price": 938,
+    "stock": 461,
+    "description": "Zenith Home model 2FI. High quality, reliable, and tested. Suitable for home use."
+  },
+  {
+    "id": 357,
+    "sku": "SKU-00357",
+    "name": "Cresta Beauty EI1 357",
+    "brand": "Cresta",
+    "category": "Beauty",
+    "price": 898.96,
+    "stock": 51,
+    "description": "Cresta Beauty model EI1. High quality, reliable, and tested. Suitable for beauty use."
+  },
+  {
+    "id": 358,
+    "sku": "SKU-00358",
+    "name": "Zenith Kitchen MGE 358",
+    "brand": "Zenith",
+    "category": "Kitchen",
+    "price": 823.72,
+    "stock": 228,
+    "description": "Zenith Kitchen model MGE. High quality, reliable, and tested. Suitable for kitchen use."
+  },
+  {
+    "id": 359,
+    "sku": "SKU-00359",
+    "name": "Astra Sport HLB 359",
+    "brand": "Astra",
+    "category": "Sports",
+    "price": 98.13,
+    "stock": 415,
+    "description": "Astra Sport model HLB. High quality, reliable, and tested. Suitable for sports use."
+  },
+  {
+    "id": 360,
+    "sku": "SKU-00360",
+    "name": "Cresta Home OWC 360",
+    "brand": "Cresta",
+    "category": "Home",
+    "price": 92.62,
+    "stock": 215,
+    "description": "Cresta Home model OWC. High quality, reliable, and tested. Suitable for home use."
+  },
+  {
+    "id": 361,
+    "sku": "SKU-00361",
+    "name": "Orbit Electronic N29 361",
+    "brand": "Orbit",
+    "category": "Electronics",
+    "price": 588.94,
+    "stock": 50,
+    "description": "Orbit Electronic model N29. High quality, reliable, and tested. Suitable for electronics use."
+  },
+  {
+    "id": 362,
+    "sku": "SKU-00362",
+    "name": "Lumen Beauty 5NO 362",
+    "brand": "Lumen",
+    "category": "Beauty",
+    "price": 469.9,
+    "stock": 48,
+    "description": "Lumen Beauty model 5NO. High quality, reliable, and tested. Suitable for beauty use."
+  },
+  {
+    "id": 363,
+    "sku": "SKU-00363",
+    "name": "Lumen Beauty 2IZ 363",
+    "brand": "Lumen",
+    "category": "Beauty",
+    "price": 533.97,
+    "stock": 69,
+    "description": "Lumen Beauty model 2IZ. High quality, reliable, and tested. Suitable for beauty use."
+  },
+  {
+    "id": 364,
+    "sku": "SKU-00364",
+    "name": "Lumen Garden 8JE 364",
+    "brand": "Lumen",
+    "category": "Garden",
+    "price": 228.43,
+    "stock": 131,
+    "description": "Lumen Garden model 8JE. High quality, reliable, and tested. Suitable for garden use."
+  },
+  {
+    "id": 365,
+    "sku": "SKU-00365",
+    "name": "Cresta Sport BE6 365",
+    "brand": "Cresta",
+    "category": "Sports",
+    "price": 34.81,
+    "stock": 233,
+    "description": "Cresta Sport model BE6. High quality, reliable, and tested. Suitable for sports use."
+  },
+  {
+    "id": 366,
+    "sku": "SKU-00366",
+    "name": "Zenith Automotive HB6 366",
+    "brand": "Zenith",
+    "category": "Automotive",
+    "price": 535.53,
+    "stock": 148,
+    "description": "Zenith Automotive model HB6. High quality, reliable, and tested. Suitable for automotive use."
+  },
+  {
+    "id": 367,
+    "sku": "SKU-00367",
+    "name": "Pioneer Beauty CUZ 367",
+    "brand": "Pioneer",
+    "category": "Beauty",
+    "price": 620.52,
+    "stock": 84,
+    "description": "Pioneer Beauty model CUZ. High quality, reliable, and tested. Suitable for beauty use."
+  },
+  {
+    "id": 368,
+    "sku": "SKU-00368",
+    "name": "Lumen Automotive QUZ 368",
+    "brand": "Lumen",
+    "category": "Automotive",
+    "price": 997.17,
+    "stock": 201,
+    "description": "Lumen Automotive model QUZ. High quality, reliable, and tested. Suitable for automotive use."
+  },
+  {
+    "id": 369,
+    "sku": "SKU-00369",
+    "name": "Pioneer Beauty PY8 369",
+    "brand": "Pioneer",
+    "category": "Beauty",
+    "price": 340.22,
+    "stock": 71,
+    "description": "Pioneer Beauty model PY8. High quality, reliable, and tested. Suitable for beauty use."
+  },
+  {
+    "id": 370,
+    "sku": "SKU-00370",
+    "name": "Velox Electronic KVL 370",
+    "brand": "Velox",
+    "category": "Electronics",
+    "price": 758.53,
+    "stock": 315,
+    "description": "Velox Electronic model KVL. High quality, reliable, and tested. Suitable for electronics use."
+  },
+  {
+    "id": 371,
+    "sku": "SKU-00371",
+    "name": "Nova Kitchen B9H 371",
+    "brand": "Nova",
+    "category": "Kitchen",
+    "price": 338.51,
+    "stock": 178,
+    "description": "Nova Kitchen model B9H. High quality, reliable, and tested. Suitable for kitchen use."
+  },
+  {
+    "id": 372,
+    "sku": "SKU-00372",
+    "name": "Lumen Kitchen RLU 372",
+    "brand": "Lumen",
+    "category": "Kitchen",
+    "price": 526.81,
+    "stock": 481,
+    "description": "Lumen Kitchen model RLU. High quality, reliable, and tested. Suitable for kitchen use."
+  },
+  {
+    "id": 373,
+    "sku": "SKU-00373",
+    "name": "Pioneer Toy DGM 373",
+    "brand": "Pioneer",
+    "category": "Toys",
+    "price": 518,
+    "stock": 143,
+    "description": "Pioneer Toy model DGM. High quality, reliable, and tested. Suitable for toys use."
+  },
+  {
+    "id": 374,
+    "sku": "SKU-00374",
+    "name": "Pioneer Automotive YUD 374",
+    "brand": "Pioneer",
+    "category": "Automotive",
+    "price": 940.21,
+    "stock": 288,
+    "description": "Pioneer Automotive model YUD. High quality, reliable, and tested. Suitable for automotive use."
+  },
+  {
+    "id": 375,
+    "sku": "SKU-00375",
+    "name": "Pioneer Book SHT 375",
+    "brand": "Pioneer",
+    "category": "Books",
+    "price": 111.78,
+    "stock": 477,
+    "description": "Pioneer Book model SHT. High quality, reliable, and tested. Suitable for books use."
+  },
+  {
+    "id": 376,
+    "sku": "SKU-00376",
+    "name": "Astra Beauty GFE 376",
+    "brand": "Astra",
+    "category": "Beauty",
+    "price": 105.12,
+    "stock": 5,
+    "description": "Astra Beauty model GFE. High quality, reliable, and tested. Suitable for beauty use."
+  },
+  {
+    "id": 377,
+    "sku": "SKU-00377",
+    "name": "Echo Electronic BCG 377",
+    "brand": "Echo",
+    "category": "Electronics",
+    "price": 609.18,
+    "stock": 333,
+    "description": "Echo Electronic model BCG. High quality, reliable, and tested. Suitable for electronics use."
+  },
+  {
+    "id": 378,
+    "sku": "SKU-00378",
+    "name": "Cresta Automotive 5KG 378",
+    "brand": "Cresta",
+    "category": "Automotive",
+    "price": 797.76,
+    "stock": 423,
+    "description": "Cresta Automotive model 5KG. High quality, reliable, and tested. Suitable for automotive use."
+  },
+  {
+    "id": 379,
+    "sku": "SKU-00379",
+    "name": "Lumen Book Q2Q 379",
+    "brand": "Lumen",
+    "category": "Books",
+    "price": 333.89,
+    "stock": 407,
+    "description": "Lumen Book model Q2Q. High quality, reliable, and tested. Suitable for books use."
+  },
+  {
+    "id": 380,
+    "sku": "SKU-00380",
+    "name": "Nova Home FDA 380",
+    "brand": "Nova",
+    "category": "Home",
+    "price": 844.53,
+    "stock": 180,
+    "description": "Nova Home model FDA. High quality, reliable, and tested. Suitable for home use."
+  },
+  {
+    "id": 381,
+    "sku": "SKU-00381",
+    "name": "Zenith Home PI3 381",
+    "brand": "Zenith",
+    "category": "Home",
+    "price": 708.61,
+    "stock": 29,
+    "description": "Zenith Home model PI3. High quality, reliable, and tested. Suitable for home use."
+  },
+  {
+    "id": 382,
+    "sku": "SKU-00382",
+    "name": "Echo Sport ZCE 382",
+    "brand": "Echo",
+    "category": "Sports",
+    "price": 528.71,
+    "stock": 315,
+    "description": "Echo Sport model ZCE. High quality, reliable, and tested. Suitable for sports use."
+  },
+  {
+    "id": 383,
+    "sku": "SKU-00383",
+    "name": "Velox Beauty 8KW 383",
+    "brand": "Velox",
+    "category": "Beauty",
+    "price": 717.83,
+    "stock": 446,
+    "description": "Velox Beauty model 8KW. High quality, reliable, and tested. Suitable for beauty use."
+  },
+  {
+    "id": 384,
+    "sku": "SKU-00384",
+    "name": "Velox Clothing MTY 384",
+    "brand": "Velox",
+    "category": "Clothing",
+    "price": 648.62,
+    "stock": 44,
+    "description": "Velox Clothing model MTY. High quality, reliable, and tested. Suitable for clothing use."
+  },
+  {
+    "id": 385,
+    "sku": "SKU-00385",
+    "name": "Echo Kitchen 2VN 385",
+    "brand": "Echo",
+    "category": "Kitchen",
+    "price": 991.25,
+    "stock": 489,
+    "description": "Echo Kitchen model 2VN. High quality, reliable, and tested. Suitable for kitchen use."
+  },
+  {
+    "id": 386,
+    "sku": "SKU-00386",
+    "name": "Velox Automotive A4X 386",
+    "brand": "Velox",
+    "category": "Automotive",
+    "price": 566.33,
+    "stock": 220,
+    "description": "Velox Automotive model A4X. High quality, reliable, and tested. Suitable for automotive use."
+  },
+  {
+    "id": 387,
+    "sku": "SKU-00387",
+    "name": "Lumen Home IOQ 387",
+    "brand": "Lumen",
+    "category": "Home",
+    "price": 689.72,
+    "stock": 92,
+    "description": "Lumen Home model IOQ. High quality, reliable, and tested. Suitable for home use."
+  },
+  {
+    "id": 388,
+    "sku": "SKU-00388",
+    "name": "Nova Sport KB9 388",
+    "brand": "Nova",
+    "category": "Sports",
+    "price": 469.22,
+    "stock": 153,
+    "description": "Nova Sport model KB9. High quality, reliable, and tested. Suitable for sports use."
+  },
+  {
+    "id": 389,
+    "sku": "SKU-00389",
+    "name": "Orbit Garden YJG 389",
+    "brand": "Orbit",
+    "category": "Garden",
+    "price": 48.14,
+    "stock": 117,
+    "description": "Orbit Garden model YJG. High quality, reliable, and tested. Suitable for garden use."
+  },
+  {
+    "id": 390,
+    "sku": "SKU-00390",
+    "name": "Zenith Electronic DBV 390",
+    "brand": "Zenith",
+    "category": "Electronics",
+    "price": 655.52,
+    "stock": 157,
+    "description": "Zenith Electronic model DBV. High quality, reliable, and tested. Suitable for electronics use."
+  },
+  {
+    "id": 391,
+    "sku": "SKU-00391",
+    "name": "Pioneer Clothing 6RX 391",
+    "brand": "Pioneer",
+    "category": "Clothing",
+    "price": 335.53,
+    "stock": 44,
+    "description": "Pioneer Clothing model 6RX. High quality, reliable, and tested. Suitable for clothing use."
+  },
+  {
+    "id": 392,
+    "sku": "SKU-00392",
+    "name": "Kairo Garden PF0 392",
+    "brand": "Kairo",
+    "category": "Garden",
+    "price": 694.78,
+    "stock": 69,
+    "description": "Kairo Garden model PF0. High quality, reliable, and tested. Suitable for garden use."
+  },
+  {
+    "id": 393,
+    "sku": "SKU-00393",
+    "name": "Velox Toy XI4 393",
+    "brand": "Velox",
+    "category": "Toys",
+    "price": 860.52,
+    "stock": 53,
+    "description": "Velox Toy model XI4. High quality, reliable, and tested. Suitable for toys use."
+  },
+  {
+    "id": 394,
+    "sku": "SKU-00394",
+    "name": "Orbit Garden IAM 394",
+    "brand": "Orbit",
+    "category": "Garden",
+    "price": 173.22,
+    "stock": 478,
+    "description": "Orbit Garden model IAM. High quality, reliable, and tested. Suitable for garden use."
+  },
+  {
+    "id": 395,
+    "sku": "SKU-00395",
+    "name": "Pioneer Automotive W8I 395",
+    "brand": "Pioneer",
+    "category": "Automotive",
+    "price": 148.77,
+    "stock": 232,
+    "description": "Pioneer Automotive model W8I. High quality, reliable, and tested. Suitable for automotive use."
+  },
+  {
+    "id": 396,
+    "sku": "SKU-00396",
+    "name": "Cresta Book GF8 396",
+    "brand": "Cresta",
+    "category": "Books",
+    "price": 251.77,
+    "stock": 28,
+    "description": "Cresta Book model GF8. High quality, reliable, and tested. Suitable for books use."
+  },
+  {
+    "id": 397,
+    "sku": "SKU-00397",
+    "name": "Astra Toy 9KR 397",
+    "brand": "Astra",
+    "category": "Toys",
+    "price": 911.58,
+    "stock": 442,
+    "description": "Astra Toy model 9KR. High quality, reliable, and tested. Suitable for toys use."
+  },
+  {
+    "id": 398,
+    "sku": "SKU-00398",
+    "name": "Nova Beauty S7H 398",
+    "brand": "Nova",
+    "category": "Beauty",
+    "price": 397.58,
+    "stock": 37,
+    "description": "Nova Beauty model S7H. High quality, reliable, and tested. Suitable for beauty use."
+  },
+  {
+    "id": 399,
+    "sku": "SKU-00399",
+    "name": "Velox Beauty 6BL 399",
+    "brand": "Velox",
+    "category": "Beauty",
+    "price": 876.8,
+    "stock": 485,
+    "description": "Velox Beauty model 6BL. High quality, reliable, and tested. Suitable for beauty use."
+  },
+  {
+    "id": 400,
+    "sku": "SKU-00400",
+    "name": "Echo Toy SDN 400",
+    "brand": "Echo",
+    "category": "Toys",
+    "price": 871.52,
+    "stock": 131,
+    "description": "Echo Toy model SDN. High quality, reliable, and tested. Suitable for toys use."
+  },
+  {
+    "id": 401,
+    "sku": "SKU-00401",
+    "name": "Zenith Automotive C7F 401",
+    "brand": "Zenith",
+    "category": "Automotive",
+    "price": 63.76,
+    "stock": 75,
+    "description": "Zenith Automotive model C7F. High quality, reliable, and tested. Suitable for automotive use."
+  },
+  {
+    "id": 402,
+    "sku": "SKU-00402",
+    "name": "Lumen Book GRL 402",
+    "brand": "Lumen",
+    "category": "Books",
+    "price": 331.95,
+    "stock": 486,
+    "description": "Lumen Book model GRL. High quality, reliable, and tested. Suitable for books use."
+  },
+  {
+    "id": 403,
+    "sku": "SKU-00403",
+    "name": "Lumen Garden 3J3 403",
+    "brand": "Lumen",
+    "category": "Garden",
+    "price": 320.6,
+    "stock": 178,
+    "description": "Lumen Garden model 3J3. High quality, reliable, and tested. Suitable for garden use."
+  },
+  {
+    "id": 404,
+    "sku": "SKU-00404",
+    "name": "Cresta Toy 5DS 404",
+    "brand": "Cresta",
+    "category": "Toys",
+    "price": 815.35,
+    "stock": 164,
+    "description": "Cresta Toy model 5DS. High quality, reliable, and tested. Suitable for toys use."
+  },
+  {
+    "id": 405,
+    "sku": "SKU-00405",
+    "name": "Astra Clothing NP7 405",
+    "brand": "Astra",
+    "category": "Clothing",
+    "price": 153.57,
+    "stock": 323,
+    "description": "Astra Clothing model NP7. High quality, reliable, and tested. Suitable for clothing use."
+  },
+  {
+    "id": 406,
+    "sku": "SKU-00406",
+    "name": "Astra Kitchen FJI 406",
+    "brand": "Astra",
+    "category": "Kitchen",
+    "price": 500.08,
+    "stock": 322,
+    "description": "Astra Kitchen model FJI. High quality, reliable, and tested. Suitable for kitchen use."
+  },
+  {
+    "id": 407,
+    "sku": "SKU-00407",
+    "name": "Lumen Garden ECF 407",
+    "brand": "Lumen",
+    "category": "Garden",
+    "price": 20.84,
+    "stock": 32,
+    "description": "Lumen Garden model ECF. High quality, reliable, and tested. Suitable for garden use."
+  },
+  {
+    "id": 408,
+    "sku": "SKU-00408",
+    "name": "Astra Garden MTZ 408",
+    "brand": "Astra",
+    "category": "Garden",
+    "price": 446.37,
+    "stock": 19,
+    "description": "Astra Garden model MTZ. High quality, reliable, and tested. Suitable for garden use."
+  },
+  {
+    "id": 409,
+    "sku": "SKU-00409",
+    "name": "Velox Automotive UCS 409",
+    "brand": "Velox",
+    "category": "Automotive",
+    "price": 941.74,
+    "stock": 481,
+    "description": "Velox Automotive model UCS. High quality, reliable, and tested. Suitable for automotive use."
+  },
+  {
+    "id": 410,
+    "sku": "SKU-00410",
+    "name": "Cresta Kitchen GCG 410",
+    "brand": "Cresta",
+    "category": "Kitchen",
+    "price": 266.94,
+    "stock": 15,
+    "description": "Cresta Kitchen model GCG. High quality, reliable, and tested. Suitable for kitchen use."
+  },
+  {
+    "id": 411,
+    "sku": "SKU-00411",
+    "name": "Astra Clothing 3RM 411",
+    "brand": "Astra",
+    "category": "Clothing",
+    "price": 271.19,
+    "stock": 368,
+    "description": "Astra Clothing model 3RM. High quality, reliable, and tested. Suitable for clothing use."
+  },
+  {
+    "id": 412,
+    "sku": "SKU-00412",
+    "name": "Pioneer Book 2CR 412",
+    "brand": "Pioneer",
+    "category": "Books",
+    "price": 981.11,
+    "stock": 123,
+    "description": "Pioneer Book model 2CR. High quality, reliable, and tested. Suitable for books use."
+  },
+  {
+    "id": 413,
+    "sku": "SKU-00413",
+    "name": "Cresta Home 8JS 413",
+    "brand": "Cresta",
+    "category": "Home",
+    "price": 272.02,
+    "stock": 367,
+    "description": "Cresta Home model 8JS. High quality, reliable, and tested. Suitable for home use."
+  },
+  {
+    "id": 414,
+    "sku": "SKU-00414",
+    "name": "Cresta Garden NV6 414",
+    "brand": "Cresta",
+    "category": "Garden",
+    "price": 849.81,
+    "stock": 437,
+    "description": "Cresta Garden model NV6. High quality, reliable, and tested. Suitable for garden use."
+  },
+  {
+    "id": 415,
+    "sku": "SKU-00415",
+    "name": "Kairo Clothing ZL4 415",
+    "brand": "Kairo",
+    "category": "Clothing",
+    "price": 702.84,
+    "stock": 294,
+    "description": "Kairo Clothing model ZL4. High quality, reliable, and tested. Suitable for clothing use."
+  },
+  {
+    "id": 416,
+    "sku": "SKU-00416",
+    "name": "Orbit Electronic 3BE 416",
+    "brand": "Orbit",
+    "category": "Electronics",
+    "price": 993.82,
+    "stock": 309,
+    "description": "Orbit Electronic model 3BE. High quality, reliable, and tested. Suitable for electronics use."
+  },
+  {
+    "id": 417,
+    "sku": "SKU-00417",
+    "name": "Cresta Electronic C69 417",
+    "brand": "Cresta",
+    "category": "Electronics",
+    "price": 134.73,
+    "stock": 415,
+    "description": "Cresta Electronic model C69. High quality, reliable, and tested. Suitable for electronics use."
+  },
+  {
+    "id": 418,
+    "sku": "SKU-00418",
+    "name": "Kairo Electronic WQY 418",
+    "brand": "Kairo",
+    "category": "Electronics",
+    "price": 523.8,
+    "stock": 284,
+    "description": "Kairo Electronic model WQY. High quality, reliable, and tested. Suitable for electronics use."
+  },
+  {
+    "id": 419,
+    "sku": "SKU-00419",
+    "name": "Lumen Kitchen PH8 419",
+    "brand": "Lumen",
+    "category": "Kitchen",
+    "price": 362.24,
+    "stock": 368,
+    "description": "Lumen Kitchen model PH8. High quality, reliable, and tested. Suitable for kitchen use."
+  },
+  {
+    "id": 420,
+    "sku": "SKU-00420",
+    "name": "Cresta Sport 4J5 420",
+    "brand": "Cresta",
+    "category": "Sports",
+    "price": 404.35,
+    "stock": 221,
+    "description": "Cresta Sport model 4J5. High quality, reliable, and tested. Suitable for sports use."
+  },
+  {
+    "id": 421,
+    "sku": "SKU-00421",
+    "name": "Orbit Book 21C 421",
+    "brand": "Orbit",
+    "category": "Books",
+    "price": 589.57,
+    "stock": 454,
+    "description": "Orbit Book model 21C. High quality, reliable, and tested. Suitable for books use."
+  },
+  {
+    "id": 422,
+    "sku": "SKU-00422",
+    "name": "Cresta Automotive A95 422",
+    "brand": "Cresta",
+    "category": "Automotive",
+    "price": 137.68,
+    "stock": 288,
+    "description": "Cresta Automotive model A95. High quality, reliable, and tested. Suitable for automotive use."
+  },
+  {
+    "id": 423,
+    "sku": "SKU-00423",
+    "name": "Echo Automotive 9NL 423",
+    "brand": "Echo",
+    "category": "Automotive",
+    "price": 195.03,
+    "stock": 330,
+    "description": "Echo Automotive model 9NL. High quality, reliable, and tested. Suitable for automotive use."
+  },
+  {
+    "id": 424,
+    "sku": "SKU-00424",
+    "name": "Kairo Beauty BPL 424",
+    "brand": "Kairo",
+    "category": "Beauty",
+    "price": 842.99,
+    "stock": 249,
+    "description": "Kairo Beauty model BPL. High quality, reliable, and tested. Suitable for beauty use."
+  },
+  {
+    "id": 425,
+    "sku": "SKU-00425",
+    "name": "Zenith Garden WCY 425",
+    "brand": "Zenith",
+    "category": "Garden",
+    "price": 61.3,
+    "stock": 282,
+    "description": "Zenith Garden model WCY. High quality, reliable, and tested. Suitable for garden use."
+  },
+  {
+    "id": 426,
+    "sku": "SKU-00426",
+    "name": "Velox Electronic MKC 426",
+    "brand": "Velox",
+    "category": "Electronics",
+    "price": 359.85,
+    "stock": 465,
+    "description": "Velox Electronic model MKC. High quality, reliable, and tested. Suitable for electronics use."
+  },
+  {
+    "id": 427,
+    "sku": "SKU-00427",
+    "name": "Velox Clothing S47 427",
+    "brand": "Velox",
+    "category": "Clothing",
+    "price": 346.48,
+    "stock": 40,
+    "description": "Velox Clothing model S47. High quality, reliable, and tested. Suitable for clothing use."
+  },
+  {
+    "id": 428,
+    "sku": "SKU-00428",
+    "name": "Echo Automotive CE9 428",
+    "brand": "Echo",
+    "category": "Automotive",
+    "price": 733.91,
+    "stock": 345,
+    "description": "Echo Automotive model CE9. High quality, reliable, and tested. Suitable for automotive use."
+  },
+  {
+    "id": 429,
+    "sku": "SKU-00429",
+    "name": "Kairo Automotive MS6 429",
+    "brand": "Kairo",
+    "category": "Automotive",
+    "price": 837.84,
+    "stock": 349,
+    "description": "Kairo Automotive model MS6. High quality, reliable, and tested. Suitable for automotive use."
+  },
+  {
+    "id": 430,
+    "sku": "SKU-00430",
+    "name": "Echo Sport XPN 430",
+    "brand": "Echo",
+    "category": "Sports",
+    "price": 498.26,
+    "stock": 158,
+    "description": "Echo Sport model XPN. High quality, reliable, and tested. Suitable for sports use."
+  },
+  {
+    "id": 431,
+    "sku": "SKU-00431",
+    "name": "Orbit Garden IEH 431",
+    "brand": "Orbit",
+    "category": "Garden",
+    "price": 847.59,
+    "stock": 270,
+    "description": "Orbit Garden model IEH. High quality, reliable, and tested. Suitable for garden use."
+  },
+  {
+    "id": 432,
+    "sku": "SKU-00432",
+    "name": "Pioneer Kitchen R4Q 432",
+    "brand": "Pioneer",
+    "category": "Kitchen",
+    "price": 184.7,
+    "stock": 264,
+    "description": "Pioneer Kitchen model R4Q. High quality, reliable, and tested. Suitable for kitchen use."
+  },
+  {
+    "id": 433,
+    "sku": "SKU-00433",
+    "name": "Echo Book K56 433",
+    "brand": "Echo",
+    "category": "Books",
+    "price": 704.22,
+    "stock": 476,
+    "description": "Echo Book model K56. High quality, reliable, and tested. Suitable for books use."
+  },
+  {
+    "id": 434,
+    "sku": "SKU-00434",
+    "name": "Lumen Toy 57I 434",
+    "brand": "Lumen",
+    "category": "Toys",
+    "price": 634.1,
+    "stock": 377,
+    "description": "Lumen Toy model 57I. High quality, reliable, and tested. Suitable for toys use."
+  },
+  {
+    "id": 435,
+    "sku": "SKU-00435",
+    "name": "Zenith Garden JJH 435",
+    "brand": "Zenith",
+    "category": "Garden",
+    "price": 896.87,
+    "stock": 487,
+    "description": "Zenith Garden model JJH. High quality, reliable, and tested. Suitable for garden use."
+  },
+  {
+    "id": 436,
+    "sku": "SKU-00436",
+    "name": "Cresta Clothing 9AP 436",
+    "brand": "Cresta",
+    "category": "Clothing",
+    "price": 85.58,
+    "stock": 302,
+    "description": "Cresta Clothing model 9AP. High quality, reliable, and tested. Suitable for clothing use."
+  },
+  {
+    "id": 437,
+    "sku": "SKU-00437",
+    "name": "Astra Garden ZXR 437",
+    "brand": "Astra",
+    "category": "Garden",
+    "price": 534.72,
+    "stock": 186,
+    "description": "Astra Garden model ZXR. High quality, reliable, and tested. Suitable for garden use."
+  },
+  {
+    "id": 438,
+    "sku": "SKU-00438",
+    "name": "Velox Electronic AQJ 438",
+    "brand": "Velox",
+    "category": "Electronics",
+    "price": 719.05,
+    "stock": 306,
+    "description": "Velox Electronic model AQJ. High quality, reliable, and tested. Suitable for electronics use."
+  },
+  {
+    "id": 439,
+    "sku": "SKU-00439",
+    "name": "Cresta Home L4W 439",
+    "brand": "Cresta",
+    "category": "Home",
+    "price": 392.79,
+    "stock": 358,
+    "description": "Cresta Home model L4W. High quality, reliable, and tested. Suitable for home use."
+  },
+  {
+    "id": 440,
+    "sku": "SKU-00440",
+    "name": "Lumen Beauty P1P 440",
+    "brand": "Lumen",
+    "category": "Beauty",
+    "price": 794.69,
+    "stock": 359,
+    "description": "Lumen Beauty model P1P. High quality, reliable, and tested. Suitable for beauty use."
+  },
+  {
+    "id": 441,
+    "sku": "SKU-00441",
+    "name": "Lumen Electronic I1F 441",
+    "brand": "Lumen",
+    "category": "Electronics",
+    "price": 104.7,
+    "stock": 272,
+    "description": "Lumen Electronic model I1F. High quality, reliable, and tested. Suitable for electronics use."
+  },
+  {
+    "id": 442,
+    "sku": "SKU-00442",
+    "name": "Cresta Sport HSN 442",
+    "brand": "Cresta",
+    "category": "Sports",
+    "price": 686.91,
+    "stock": 117,
+    "description": "Cresta Sport model HSN. High quality, reliable, and tested. Suitable for sports use."
+  },
+  {
+    "id": 443,
+    "sku": "SKU-00443",
+    "name": "Cresta Toy JYK 443",
+    "brand": "Cresta",
+    "category": "Toys",
+    "price": 203.26,
+    "stock": 446,
+    "description": "Cresta Toy model JYK. High quality, reliable, and tested. Suitable for toys use."
+  },
+  {
+    "id": 444,
+    "sku": "SKU-00444",
+    "name": "Cresta Automotive CL6 444",
+    "brand": "Cresta",
+    "category": "Automotive",
+    "price": 282.3,
+    "stock": 205,
+    "description": "Cresta Automotive model CL6. High quality, reliable, and tested. Suitable for automotive use."
+  },
+  {
+    "id": 445,
+    "sku": "SKU-00445",
+    "name": "Velox Toy 45J 445",
+    "brand": "Velox",
+    "category": "Toys",
+    "price": 975.3,
+    "stock": 386,
+    "description": "Velox Toy model 45J. High quality, reliable, and tested. Suitable for toys use."
+  },
+  {
+    "id": 446,
+    "sku": "SKU-00446",
+    "name": "Astra Electronic 10V 446",
+    "brand": "Astra",
+    "category": "Electronics",
+    "price": 181.11,
+    "stock": 124,
+    "description": "Astra Electronic model 10V. High quality, reliable, and tested. Suitable for electronics use."
+  },
+  {
+    "id": 447,
+    "sku": "SKU-00447",
+    "name": "Kairo Home MBX 447",
+    "brand": "Kairo",
+    "category": "Home",
+    "price": 224.83,
+    "stock": 31,
+    "description": "Kairo Home model MBX. High quality, reliable, and tested. Suitable for home use."
+  },
+  {
+    "id": 448,
+    "sku": "SKU-00448",
+    "name": "Velox Sport NG9 448",
+    "brand": "Velox",
+    "category": "Sports",
+    "price": 704.5,
+    "stock": 403,
+    "description": "Velox Sport model NG9. High quality, reliable, and tested. Suitable for sports use."
+  },
+  {
+    "id": 449,
+    "sku": "SKU-00449",
+    "name": "Kairo Book N5E 449",
+    "brand": "Kairo",
+    "category": "Books",
+    "price": 845.04,
+    "stock": 157,
+    "description": "Kairo Book model N5E. High quality, reliable, and tested. Suitable for books use."
+  },
+  {
+    "id": 450,
+    "sku": "SKU-00450",
+    "name": "Cresta Home PZE 450",
+    "brand": "Cresta",
+    "category": "Home",
+    "price": 691.9,
+    "stock": 290,
+    "description": "Cresta Home model PZE. High quality, reliable, and tested. Suitable for home use."
+  },
+  {
+    "id": 451,
+    "sku": "SKU-00451",
+    "name": "Lumen Sport OSY 451",
+    "brand": "Lumen",
+    "category": "Sports",
+    "price": 262.26,
+    "stock": 105,
+    "description": "Lumen Sport model OSY. High quality, reliable, and tested. Suitable for sports use."
+  },
+  {
+    "id": 452,
+    "sku": "SKU-00452",
+    "name": "Nova Home J34 452",
+    "brand": "Nova",
+    "category": "Home",
+    "price": 479.29,
+    "stock": 487,
+    "description": "Nova Home model J34. High quality, reliable, and tested. Suitable for home use."
+  },
+  {
+    "id": 453,
+    "sku": "SKU-00453",
+    "name": "Velox Garden HSJ 453",
+    "brand": "Velox",
+    "category": "Garden",
+    "price": 925.75,
+    "stock": 491,
+    "description": "Velox Garden model HSJ. High quality, reliable, and tested. Suitable for garden use."
+  },
+  {
+    "id": 454,
+    "sku": "SKU-00454",
+    "name": "Cresta Toy NM1 454",
+    "brand": "Cresta",
+    "category": "Toys",
+    "price": 184.48,
+    "stock": 472,
+    "description": "Cresta Toy model NM1. High quality, reliable, and tested. Suitable for toys use."
+  },
+  {
+    "id": 455,
+    "sku": "SKU-00455",
+    "name": "Cresta Automotive NC9 455",
+    "brand": "Cresta",
+    "category": "Automotive",
+    "price": 83.99,
+    "stock": 243,
+    "description": "Cresta Automotive model NC9. High quality, reliable, and tested. Suitable for automotive use."
+  },
+  {
+    "id": 456,
+    "sku": "SKU-00456",
+    "name": "Zenith Kitchen BYQ 456",
+    "brand": "Zenith",
+    "category": "Kitchen",
+    "price": 894.22,
+    "stock": 233,
+    "description": "Zenith Kitchen model BYQ. High quality, reliable, and tested. Suitable for kitchen use."
+  },
+  {
+    "id": 457,
+    "sku": "SKU-00457",
+    "name": "Pioneer Garden PS8 457",
+    "brand": "Pioneer",
+    "category": "Garden",
+    "price": 185.55,
+    "stock": 456,
+    "description": "Pioneer Garden model PS8. High quality, reliable, and tested. Suitable for garden use."
+  },
+  {
+    "id": 458,
+    "sku": "SKU-00458",
+    "name": "Astra Sport U9O 458",
+    "brand": "Astra",
+    "category": "Sports",
+    "price": 927.97,
+    "stock": 492,
+    "description": "Astra Sport model U9O. High quality, reliable, and tested. Suitable for sports use."
+  },
+  {
+    "id": 459,
+    "sku": "SKU-00459",
+    "name": "Cresta Garden OX7 459",
+    "brand": "Cresta",
+    "category": "Garden",
+    "price": 636,
+    "stock": 343,
+    "description": "Cresta Garden model OX7. High quality, reliable, and tested. Suitable for garden use."
+  },
+  {
+    "id": 460,
+    "sku": "SKU-00460",
+    "name": "Orbit Automotive TGM 460",
+    "brand": "Orbit",
+    "category": "Automotive",
+    "price": 45.25,
+    "stock": 221,
+    "description": "Orbit Automotive model TGM. High quality, reliable, and tested. Suitable for automotive use."
+  },
+  {
+    "id": 461,
+    "sku": "SKU-00461",
+    "name": "Zenith Clothing QVP 461",
+    "brand": "Zenith",
+    "category": "Clothing",
+    "price": 87.51,
+    "stock": 241,
+    "description": "Zenith Clothing model QVP. High quality, reliable, and tested. Suitable for clothing use."
+  },
+  {
+    "id": 462,
+    "sku": "SKU-00462",
+    "name": "Orbit Electronic IB6 462",
+    "brand": "Orbit",
+    "category": "Electronics",
+    "price": 635.64,
+    "stock": 169,
+    "description": "Orbit Electronic model IB6. High quality, reliable, and tested. Suitable for electronics use."
+  },
+  {
+    "id": 463,
+    "sku": "SKU-00463",
+    "name": "Orbit Sport MBW 463",
+    "brand": "Orbit",
+    "category": "Sports",
+    "price": 996.25,
+    "stock": 422,
+    "description": "Orbit Sport model MBW. High quality, reliable, and tested. Suitable for sports use."
+  },
+  {
+    "id": 464,
+    "sku": "SKU-00464",
+    "name": "Cresta Kitchen 068 464",
+    "brand": "Cresta",
+    "category": "Kitchen",
+    "price": 471.77,
+    "stock": 146,
+    "description": "Cresta Kitchen model 068. High quality, reliable, and tested. Suitable for kitchen use."
+  },
+  {
+    "id": 465,
+    "sku": "SKU-00465",
+    "name": "Orbit Sport OXL 465",
+    "brand": "Orbit",
+    "category": "Sports",
+    "price": 630.66,
+    "stock": 342,
+    "description": "Orbit Sport model OXL. High quality, reliable, and tested. Suitable for sports use."
+  },
+  {
+    "id": 466,
+    "sku": "SKU-00466",
+    "name": "Nova Clothing 2IU 466",
+    "brand": "Nova",
+    "category": "Clothing",
+    "price": 601.67,
+    "stock": 351,
+    "description": "Nova Clothing model 2IU. High quality, reliable, and tested. Suitable for clothing use."
+  },
+  {
+    "id": 467,
+    "sku": "SKU-00467",
+    "name": "Lumen Clothing 8CW 467",
+    "brand": "Lumen",
+    "category": "Clothing",
+    "price": 270.05,
+    "stock": 56,
+    "description": "Lumen Clothing model 8CW. High quality, reliable, and tested. Suitable for clothing use."
+  },
+  {
+    "id": 468,
+    "sku": "SKU-00468",
+    "name": "Astra Electronic LD2 468",
+    "brand": "Astra",
+    "category": "Electronics",
+    "price": 723.52,
+    "stock": 298,
+    "description": "Astra Electronic model LD2. High quality, reliable, and tested. Suitable for electronics use."
+  },
+  {
+    "id": 469,
+    "sku": "SKU-00469",
+    "name": "Lumen Home YN9 469",
+    "brand": "Lumen",
+    "category": "Home",
+    "price": 515.2,
+    "stock": 91,
+    "description": "Lumen Home model YN9. High quality, reliable, and tested. Suitable for home use."
+  },
+  {
+    "id": 470,
+    "sku": "SKU-00470",
+    "name": "Echo Automotive BKS 470",
+    "brand": "Echo",
+    "category": "Automotive",
+    "price": 659.19,
+    "stock": 140,
+    "description": "Echo Automotive model BKS. High quality, reliable, and tested. Suitable for automotive use."
+  },
+  {
+    "id": 471,
+    "sku": "SKU-00471",
+    "name": "Pioneer Beauty 2T6 471",
+    "brand": "Pioneer",
+    "category": "Beauty",
+    "price": 984.09,
+    "stock": 375,
+    "description": "Pioneer Beauty model 2T6. High quality, reliable, and tested. Suitable for beauty use."
+  },
+  {
+    "id": 472,
+    "sku": "SKU-00472",
+    "name": "Nova Clothing BD3 472",
+    "brand": "Nova",
+    "category": "Clothing",
+    "price": 45.64,
+    "stock": 335,
+    "description": "Nova Clothing model BD3. High quality, reliable, and tested. Suitable for clothing use."
+  },
+  {
+    "id": 473,
+    "sku": "SKU-00473",
+    "name": "Lumen Beauty SBX 473",
+    "brand": "Lumen",
+    "category": "Beauty",
+    "price": 740.86,
+    "stock": 239,
+    "description": "Lumen Beauty model SBX. High quality, reliable, and tested. Suitable for beauty use."
+  },
+  {
+    "id": 474,
+    "sku": "SKU-00474",
+    "name": "Kairo Clothing CKZ 474",
+    "brand": "Kairo",
+    "category": "Clothing",
+    "price": 819.73,
+    "stock": 73,
+    "description": "Kairo Clothing model CKZ. High quality, reliable, and tested. Suitable for clothing use."
+  },
+  {
+    "id": 475,
+    "sku": "SKU-00475",
+    "name": "Zenith Electronic TGE 475",
+    "brand": "Zenith",
+    "category": "Electronics",
+    "price": 72.68,
+    "stock": 310,
+    "description": "Zenith Electronic model TGE. High quality, reliable, and tested. Suitable for electronics use."
+  },
+  {
+    "id": 476,
+    "sku": "SKU-00476",
+    "name": "Orbit Toy USV 476",
+    "brand": "Orbit",
+    "category": "Toys",
+    "price": 843.95,
+    "stock": 243,
+    "description": "Orbit Toy model USV. High quality, reliable, and tested. Suitable for toys use."
+  },
+  {
+    "id": 477,
+    "sku": "SKU-00477",
+    "name": "Zenith Book QOO 477",
+    "brand": "Zenith",
+    "category": "Books",
+    "price": 206.75,
+    "stock": 103,
+    "description": "Zenith Book model QOO. High quality, reliable, and tested. Suitable for books use."
+  },
+  {
+    "id": 478,
+    "sku": "SKU-00478",
+    "name": "Cresta Beauty 0KM 478",
+    "brand": "Cresta",
+    "category": "Beauty",
+    "price": 742.64,
+    "stock": 71,
+    "description": "Cresta Beauty model 0KM. High quality, reliable, and tested. Suitable for beauty use."
+  },
+  {
+    "id": 479,
+    "sku": "SKU-00479",
+    "name": "Lumen Sport B8G 479",
+    "brand": "Lumen",
+    "category": "Sports",
+    "price": 455.87,
+    "stock": 343,
+    "description": "Lumen Sport model B8G. High quality, reliable, and tested. Suitable for sports use."
+  },
+  {
+    "id": 480,
+    "sku": "SKU-00480",
+    "name": "Velox Toy 8BG 480",
+    "brand": "Velox",
+    "category": "Toys",
+    "price": 444.01,
+    "stock": 251,
+    "description": "Velox Toy model 8BG. High quality, reliable, and tested. Suitable for toys use."
+  },
+  {
+    "id": 481,
+    "sku": "SKU-00481",
+    "name": "Velox Garden EAZ 481",
+    "brand": "Velox",
+    "category": "Garden",
+    "price": 563.78,
+    "stock": 491,
+    "description": "Velox Garden model EAZ. High quality, reliable, and tested. Suitable for garden use."
+  },
+  {
+    "id": 482,
+    "sku": "SKU-00482",
+    "name": "Orbit Book 2QM 482",
+    "brand": "Orbit",
+    "category": "Books",
+    "price": 572.9,
+    "stock": 386,
+    "description": "Orbit Book model 2QM. High quality, reliable, and tested. Suitable for books use."
+  },
+  {
+    "id": 483,
+    "sku": "SKU-00483",
+    "name": "Zenith Sport O29 483",
+    "brand": "Zenith",
+    "category": "Sports",
+    "price": 742.87,
+    "stock": 278,
+    "description": "Zenith Sport model O29. High quality, reliable, and tested. Suitable for sports use."
+  },
+  {
+    "id": 484,
+    "sku": "SKU-00484",
+    "name": "Nova Toy SB6 484",
+    "brand": "Nova",
+    "category": "Toys",
+    "price": 319.01,
+    "stock": 479,
+    "description": "Nova Toy model SB6. High quality, reliable, and tested. Suitable for toys use."
+  },
+  {
+    "id": 485,
+    "sku": "SKU-00485",
+    "name": "Velox Garden M2Q 485",
+    "brand": "Velox",
+    "category": "Garden",
+    "price": 367.4,
+    "stock": 165,
+    "description": "Velox Garden model M2Q. High quality, reliable, and tested. Suitable for garden use."
+  },
+  {
+    "id": 486,
+    "sku": "SKU-00486",
+    "name": "Orbit Automotive RP3 486",
+    "brand": "Orbit",
+    "category": "Automotive",
+    "price": 830.43,
+    "stock": 395,
+    "description": "Orbit Automotive model RP3. High quality, reliable, and tested. Suitable for automotive use."
+  },
+  {
+    "id": 487,
+    "sku": "SKU-00487",
+    "name": "Velox Book 3KO 487",
+    "brand": "Velox",
+    "category": "Books",
+    "price": 629.79,
+    "stock": 314,
+    "description": "Velox Book model 3KO. High quality, reliable, and tested. Suitable for books use."
+  },
+  {
+    "id": 488,
+    "sku": "SKU-00488",
+    "name": "Astra Garden BR3 488",
+    "brand": "Astra",
+    "category": "Garden",
+    "price": 145.54,
+    "stock": 112,
+    "description": "Astra Garden model BR3. High quality, reliable, and tested. Suitable for garden use."
+  },
+  {
+    "id": 489,
+    "sku": "SKU-00489",
+    "name": "Zenith Kitchen NJ8 489",
+    "brand": "Zenith",
+    "category": "Kitchen",
+    "price": 208.89,
+    "stock": 324,
+    "description": "Zenith Kitchen model NJ8. High quality, reliable, and tested. Suitable for kitchen use."
+  },
+  {
+    "id": 490,
+    "sku": "SKU-00490",
+    "name": "Nova Kitchen NDE 490",
+    "brand": "Nova",
+    "category": "Kitchen",
+    "price": 794.86,
+    "stock": 448,
+    "description": "Nova Kitchen model NDE. High quality, reliable, and tested. Suitable for kitchen use."
+  },
+  {
+    "id": 491,
+    "sku": "SKU-00491",
+    "name": "Velox Clothing HK8 491",
+    "brand": "Velox",
+    "category": "Clothing",
+    "price": 753.22,
+    "stock": 448,
+    "description": "Velox Clothing model HK8. High quality, reliable, and tested. Suitable for clothing use."
+  },
+  {
+    "id": 492,
+    "sku": "SKU-00492",
+    "name": "Lumen Clothing VIA 492",
+    "brand": "Lumen",
+    "category": "Clothing",
+    "price": 446.58,
+    "stock": 491,
+    "description": "Lumen Clothing model VIA. High quality, reliable, and tested. Suitable for clothing use."
+  },
+  {
+    "id": 493,
+    "sku": "SKU-00493",
+    "name": "Nova Kitchen WG9 493",
+    "brand": "Nova",
+    "category": "Kitchen",
+    "price": 142.23,
+    "stock": 283,
+    "description": "Nova Kitchen model WG9. High quality, reliable, and tested. Suitable for kitchen use."
+  },
+  {
+    "id": 494,
+    "sku": "SKU-00494",
+    "name": "Velox Book 12Y 494",
+    "brand": "Velox",
+    "category": "Books",
+    "price": 718.84,
+    "stock": 325,
+    "description": "Velox Book model 12Y. High quality, reliable, and tested. Suitable for books use."
+  },
+  {
+    "id": 495,
+    "sku": "SKU-00495",
+    "name": "Velox Electronic 36U 495",
+    "brand": "Velox",
+    "category": "Electronics",
+    "price": 476.62,
+    "stock": 312,
+    "description": "Velox Electronic model 36U. High quality, reliable, and tested. Suitable for electronics use."
+  },
+  {
+    "id": 496,
+    "sku": "SKU-00496",
+    "name": "Lumen Beauty UZD 496",
+    "brand": "Lumen",
+    "category": "Beauty",
+    "price": 248.7,
+    "stock": 65,
+    "description": "Lumen Beauty model UZD. High quality, reliable, and tested. Suitable for beauty use."
+  },
+  {
+    "id": 497,
+    "sku": "SKU-00497",
+    "name": "Pioneer Book 7MQ 497",
+    "brand": "Pioneer",
+    "category": "Books",
+    "price": 293.23,
+    "stock": 390,
+    "description": "Pioneer Book model 7MQ. High quality, reliable, and tested. Suitable for books use."
+  },
+  {
+    "id": 498,
+    "sku": "SKU-00498",
+    "name": "Orbit Clothing LDG 498",
+    "brand": "Orbit",
+    "category": "Clothing",
+    "price": 113.39,
+    "stock": 427,
+    "description": "Orbit Clothing model LDG. High quality, reliable, and tested. Suitable for clothing use."
+  },
+  {
+    "id": 499,
+    "sku": "SKU-00499",
+    "name": "Pioneer Clothing A9P 499",
+    "brand": "Pioneer",
+    "category": "Clothing",
+    "price": 772.89,
+    "stock": 341,
+    "description": "Pioneer Clothing model A9P. High quality, reliable, and tested. Suitable for clothing use."
+  },
+  {
+    "id": 500,
+    "sku": "SKU-00500",
+    "name": "Velox Electronic AQM 500",
+    "brand": "Velox",
+    "category": "Electronics",
+    "price": 752.22,
+    "stock": 250,
+    "description": "Velox Electronic model AQM. High quality, reliable, and tested. Suitable for electronics use."
+  }
+]

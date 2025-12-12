@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Product Chatbot</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <h1>Product Chatbot</h1>
+  <div id="status" style="margin-bottom:8px;color:#666">Status: idle</div>
+
+  <div id="chatbox"></div>
+
+  <div style="margin-top:8px;margin-bottom:8px">
+    <button id="load-products">Load product names</button>
+    <button id="test-server">Test server</button>
+  </div>
+
+  <div class="input-area">
+    <input id="msg" type="text" placeholder="Ask something..." />
+    <button onclick="sendMessage()">Send</button>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
